@@ -1,0 +1,119 @@
+{
+  "baseline_metrics": {
+    "rmse": 18973.987794788332,
+    "mae": 15156.00951712886,
+    "r2": 0.964079742162096
+  },
+  "data_drift_analysis": {
+    "Month 1": {
+      "drift_share": 0.0,
+      "dataset_drift": false,
+      "drifted_features": []
+    },
+    "Month 2": {
+      "drift_share": 1.0,
+      "dataset_drift": true,
+      "drifted_features": [
+        "area",
+        "bedrooms",
+        "bathrooms",
+        "age",
+        "location"
+      ]
+    },
+    "Month 3": {
+      "drift_share": 0.0,
+      "dataset_drift": false,
+      "drifted_features": []
+    },
+    "Month 4": {
+      "drift_share": 1.0,
+      "dataset_drift": true,
+      "drifted_features": [
+        "area",
+        "bedrooms",
+        "bathrooms",
+        "age",
+        "location"
+      ]
+    }
+  },
+  "concept_drift_analysis": [
+    {
+      "batch": "Month 1",
+      "scenario": "Normal (No Drift)",
+      "metrics": {
+        "rmse": 17874.6,
+        "mae": 14376.86,
+        "r2": 0.9648,
+        "mape": 2.79
+      },
+      "indicators": {
+        "rmse_increase_pct": -5.79,
+        "r2_drop": -0.0007,
+        "mean_residual_bias": -1819.55,
+        "residual_ks_stat": 0.1015,
+        "residual_ks_p_val": 0.002764966097262899,
+        "residual_drift_detected": false
+      },
+      "severity": "NO CONCEPT DRIFT"
+    },
+    {
+      "batch": "Month 2",
+      "scenario": "Data Drift (Feature Shift)",
+      "metrics": {
+        "rmse": 29187.78,
+        "mae": 21496.65,
+        "r2": 0.9192,
+        "mape": 2.79
+      },
+      "indicators": {
+        "rmse_increase_pct": 53.83,
+        "r2_drop": 0.0449,
+        "mean_residual_bias": 9499.73,
+        "residual_ks_stat": 0.2462,
+        "residual_ks_p_val": 2.6692484294788557e-17,
+        "residual_drift_detected": true
+      },
+      "severity": "MODERATE CONCEPT DRIFT"
+    },
+    {
+      "batch": "Month 3",
+      "scenario": "Concept Drift (Relationship Shift)",
+      "metrics": {
+        "rmse": 256096.53,
+        "mae": 251968.66,
+        "r2": -2.9574,
+        "mape": 31.62
+      },
+      "indicators": {
+        "rmse_increase_pct": 1249.72,
+        "r2_drop": 3.9214,
+        "mean_residual_bias": 251968.66,
+        "residual_ks_stat": 1.0,
+        "residual_ks_p_val": 5e-324,
+        "residual_drift_detected": true
+      },
+      "severity": "CRITICAL CONCEPT DRIFT"
+    },
+    {
+      "batch": "Month 4",
+      "scenario": "Severe Compound Drift (Data + Concept)",
+      "metrics": {
+        "rmse": 473470.08,
+        "mae": 466586.58,
+        "r2": -6.3822,
+        "mape": 37.72
+      },
+      "indicators": {
+        "rmse_increase_pct": 2395.36,
+        "r2_drop": 7.3462,
+        "mean_residual_bias": 466586.58,
+        "residual_ks_stat": 1.0,
+        "residual_ks_p_val": 5e-324,
+        "residual_drift_detected": true
+      },
+      "severity": "CRITICAL CONCEPT DRIFT"
+    }
+  ]
+}

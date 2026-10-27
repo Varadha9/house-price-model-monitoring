@@ -1,0 +1,1601 @@
+batch_id,time_window,scenario,area,bedrooms,bathrooms,location,age,price
+1,Month 1,Normal (No Drift),1218.7,2,2,Suburban,15.6,408480.99
+1,Month 1,Normal (No Drift),2268.2,3,2,Suburban,30.6,590332.27
+1,Month 1,Normal (No Drift),1479.8,3,2,Suburban,16.3,465778.27
+1,Month 1,Normal (No Drift),1887.9,4,3,Suburban,34.3,550321.85
+1,Month 1,Normal (No Drift),2339.1,4,3,Rural,33.6,600474.18
+1,Month 1,Normal (No Drift),2238.8,3,2,Suburban,12.2,619053.14
+1,Month 1,Normal (No Drift),1864.4,3,2,Suburban,31.1,513267.32
+1,Month 1,Normal (No Drift),1697.8,2,2,Rural,29.8,434936.05
+1,Month 1,Normal (No Drift),2248.0,4,3,Suburban,8.2,654684.85
+1,Month 1,Normal (No Drift),2133.4,3,2,Downtown,22.2,633145.34
+1,Month 1,Normal (No Drift),1590.3,2,2,Suburban,3.5,488489.01
+1,Month 1,Normal (No Drift),1516.1,2,1,Suburban,29.4,412480.82
+1,Month 1,Normal (No Drift),979.6,2,1,Rural,6.9,335388.43
+1,Month 1,Normal (No Drift),1914.7,4,3,Suburban,3.4,588089.15
+1,Month 1,Normal (No Drift),1815.3,2,2,Urban,14.6,543942.12
+1,Month 1,Normal (No Drift),2327.2,3,2,Suburban,20.6,586910.02
+1,Month 1,Normal (No Drift),2000.8,3,2,Suburban,30.1,541426.85
+1,Month 1,Normal (No Drift),2410.4,3,2,Suburban,34.1,620926.77
+1,Month 1,Normal (No Drift),1557.1,4,3,Suburban,15.9,495874.68
+1,Month 1,Normal (No Drift),2328.0,4,3,Suburban,3.1,672969.35
+1,Month 1,Normal (No Drift),1627.9,3,3,Downtown,26.5,577309.58
+1,Month 1,Normal (No Drift),2176.6,1,1,Urban,20.2,528136.47
+1,Month 1,Normal (No Drift),1237.3,3,2,Suburban,16.2,426458.31
+1,Month 1,Normal (No Drift),1948.8,3,2,Urban,11.5,597176.07
+1,Month 1,Normal (No Drift),1016.4,3,2,Rural,18.1,342986.55
+1,Month 1,Normal (No Drift),1737.8,3,3,Rural,12.5,508431.07
+1,Month 1,Normal (No Drift),2034.9,2,2,Downtown,26.7,608418.41
+1,Month 1,Normal (No Drift),1631.2,3,1,Rural,19.5,423044.24
+1,Month 1,Normal (No Drift),1408.8,2,1,Suburban,30.8,368308.59
+1,Month 1,Normal (No Drift),2205.4,4,3,Suburban,19.5,653137.83
+1,Month 1,Normal (No Drift),1806.5,2,2,Urban,9.1,540562.4
+1,Month 1,Normal (No Drift),1644.4,3,3,Urban,29.9,540758.94
+1,Month 1,Normal (No Drift),1867.6,1,1,Urban,19.9,472791.71
+1,Month 1,Normal (No Drift),2957.4,3,2,Urban,8.0,753821.02
+1,Month 1,Normal (No Drift),2334.5,3,2,Rural,22.2,568471.25
+1,Month 1,Normal (No Drift),2338.3,2,2,Downtown,13.2,651708.69
+1,Month 1,Normal (No Drift),2032.9,4,3,Urban,29.7,599761.37
+1,Month 1,Normal (No Drift),1919.9,3,2,Downtown,16.4,610922.04
+1,Month 1,Normal (No Drift),843.6,3,2,Suburban,25.7,349206.86
+1,Month 1,Normal (No Drift),1564.8,3,2,Suburban,4.2,481374.83
+1,Month 1,Normal (No Drift),1648.2,3,2,Suburban,14.5,479234.39
+1,Month 1,Normal (No Drift),1062.5,3,2,Urban,34.4,387851.92
+1,Month 1,Normal (No Drift),1363.9,3,2,Suburban,28.5,422513.39
+1,Month 1,Normal (No Drift),1018.0,3,3,Downtown,6.4,495768.85
+1,Month 1,Normal (No Drift),1833.9,3,2,Suburban,10.4,563927.64
+1,Month 1,Normal (No Drift),2193.9,2,1,Urban,12.2,588313.5
+1,Month 1,Normal (No Drift),2314.8,2,2,Suburban,23.1,595045.87
+1,Month 1,Normal (No Drift),2024.2,1,1,Suburban,26.7,492353.76
+1,Month 1,Normal (No Drift),1445.4,2,1,Rural,26.5,345825.76
+1,Month 1,Normal (No Drift),1038.5,3,2,Urban,18.3,395238.45
+1,Month 1,Normal (No Drift),1112.1,4,3,Rural,28.6,383592.41
+1,Month 1,Normal (No Drift),1317.0,2,1,Rural,15.9,370050.65
+1,Month 1,Normal (No Drift),1476.7,5,4,Suburban,5.2,566477.8
+1,Month 1,Normal (No Drift),1782.9,3,2,Suburban,20.2,493028.02
+1,Month 1,Normal (No Drift),1424.1,4,3,Rural,33.4,443027.92
+1,Month 1,Normal (No Drift),1992.4,3,3,Rural,28.0,529327.68
+1,Month 1,Normal (No Drift),1752.4,3,3,Urban,20.7,567960.69
+1,Month 1,Normal (No Drift),1854.4,1,1,Downtown,23.0,532998.84
+1,Month 1,Normal (No Drift),2328.9,2,1,Downtown,32.6,611232.69
+1,Month 1,Normal (No Drift),1354.3,1,1,Suburban,15.6,380167.79
+1,Month 1,Normal (No Drift),2025.9,3,3,Urban,12.3,611442.74
+1,Month 1,Normal (No Drift),1844.1,2,2,Downtown,34.2,562729.99
+1,Month 1,Normal (No Drift),1709.9,4,3,Urban,30.4,578147.6
+1,Month 1,Normal (No Drift),2221.8,2,2,Suburban,12.0,566007.19
+1,Month 1,Normal (No Drift),2219.2,4,3,Suburban,16.8,633371.87
+1,Month 1,Normal (No Drift),1452.5,2,1,Suburban,15.1,418434.03
+1,Month 1,Normal (No Drift),1773.5,2,2,Suburban,6.1,490819.02
+1,Month 1,Normal (No Drift),1968.1,2,1,Rural,33.6,438724.74
+1,Month 1,Normal (No Drift),1735.3,3,2,Suburban,14.7,517798.85
+1,Month 1,Normal (No Drift),2095.7,2,2,Suburban,30.8,563723.15
+1,Month 1,Normal (No Drift),1968.1,4,3,Suburban,7.4,617316.76
+1,Month 1,Normal (No Drift),2619.7,1,1,Urban,19.6,623942.48
+1,Month 1,Normal (No Drift),1207.3,3,3,Urban,1.8,497240.35
+1,Month 1,Normal (No Drift),1798.6,4,3,Suburban,27.0,540971.25
+1,Month 1,Normal (No Drift),1468.4,1,1,Suburban,20.8,385882.84
+1,Month 1,Normal (No Drift),2103.7,4,2,Suburban,22.3,587208.35
+1,Month 1,Normal (No Drift),1170.8,5,4,Urban,2.8,558677.27
+1,Month 1,Normal (No Drift),1995.5,1,1,Suburban,8.2,491958.77
+1,Month 1,Normal (No Drift),1585.4,2,2,Rural,3.5,444256.96
+1,Month 1,Normal (No Drift),1541.7,3,2,Urban,10.8,505211.7
+1,Month 1,Normal (No Drift),1242.5,4,2,Suburban,22.3,437745.3
+1,Month 1,Normal (No Drift),1654.7,3,2,Downtown,20.3,550874.13
+1,Month 1,Normal (No Drift),2305.5,3,2,Suburban,21.8,596667.78
+1,Month 1,Normal (No Drift),1839.4,4,3,Urban,19.7,623119.14
+1,Month 1,Normal (No Drift),2113.6,2,1,Suburban,10.3,535355.36
+1,Month 1,Normal (No Drift),2549.1,4,2,Urban,9.3,709542.78
+1,Month 1,Normal (No Drift),1960.8,3,2,Downtown,5.7,667351.85
+1,Month 1,Normal (No Drift),1615.3,3,3,Rural,29.9,444410.46
+1,Month 1,Normal (No Drift),2046.2,4,3,Suburban,22.0,589294.88
+1,Month 1,Normal (No Drift),1621.4,3,2,Suburban,7.3,523359.39
+1,Month 1,Normal (No Drift),1638.1,2,2,Urban,7.0,509636.72
+1,Month 1,Normal (No Drift),1211.6,3,2,Rural,30.7,361647.6
+1,Month 1,Normal (No Drift),2239.0,3,3,Rural,26.3,559963.73
+1,Month 1,Normal (No Drift),1687.9,1,1,Suburban,23.4,426332.73
+1,Month 1,Normal (No Drift),1926.5,5,3,Suburban,14.8,622984.4
+1,Month 1,Normal (No Drift),1414.9,2,1,Urban,9.9,422291.5
+1,Month 1,Normal (No Drift),2033.1,3,2,Suburban,34.3,537956.56
+1,Month 1,Normal (No Drift),1530.0,3,2,Suburban,28.1,453797.82
+1,Month 1,Normal (No Drift),1790.5,1,1,Suburban,11.3,454787.52
+1,Month 1,Normal (No Drift),2218.7,4,3,Urban,29.8,640682.54
+1,Month 1,Normal (No Drift),2182.1,4,3,Rural,26.8,608165.97
+1,Month 1,Normal (No Drift),1840.7,3,2,Rural,11.1,510657.33
+1,Month 1,Normal (No Drift),1107.4,2,1,Suburban,15.5,343291.66
+1,Month 1,Normal (No Drift),3107.0,2,1,Urban,7.3,734420.64
+1,Month 1,Normal (No Drift),2583.3,3,3,Rural,4.8,659770.94
+1,Month 1,Normal (No Drift),2153.5,2,1,Suburban,25.6,509060.67
+1,Month 1,Normal (No Drift),1533.7,3,3,Urban,10.1,530633.14
+1,Month 1,Normal (No Drift),1802.3,5,4,Urban,28.9,631576.7
+1,Month 1,Normal (No Drift),1621.8,3,2,Suburban,34.9,491665.86
+1,Month 1,Normal (No Drift),2380.8,4,3,Urban,3.6,728877.11
+1,Month 1,Normal (No Drift),1960.3,3,2,Suburban,17.1,560272.27
+1,Month 1,Normal (No Drift),1520.7,3,2,Urban,28.3,492565.7
+1,Month 1,Normal (No Drift),1652.3,4,3,Suburban,27.8,513782.83
+1,Month 1,Normal (No Drift),2320.9,3,2,Suburban,26.8,598011.07
+1,Month 1,Normal (No Drift),2522.0,4,3,Suburban,12.9,713762.11
+1,Month 1,Normal (No Drift),2491.9,2,1,Rural,16.4,536134.29
+1,Month 1,Normal (No Drift),2168.0,2,1,Urban,21.2,567588.34
+1,Month 1,Normal (No Drift),1743.9,4,4,Urban,34.1,632495.83
+1,Month 1,Normal (No Drift),750.0,3,2,Urban,12.1,385826.98
+1,Month 1,Normal (No Drift),1974.8,4,3,Urban,32.4,633176.12
+1,Month 1,Normal (No Drift),1849.2,4,3,Suburban,10.2,587716.72
+1,Month 1,Normal (No Drift),1908.8,1,1,Downtown,34.6,540466.28
+1,Month 1,Normal (No Drift),1872.6,3,2,Suburban,23.8,512775.79
+1,Month 1,Normal (No Drift),1293.0,3,2,Suburban,16.8,441772.36
+1,Month 1,Normal (No Drift),2084.1,3,2,Downtown,21.9,652494.55
+1,Month 1,Normal (No Drift),2115.5,4,3,Suburban,10.3,635273.9
+1,Month 1,Normal (No Drift),2136.6,2,1,Suburban,10.3,554287.91
+1,Month 1,Normal (No Drift),2247.6,3,2,Urban,4.9,631894.7
+1,Month 1,Normal (No Drift),2103.7,3,3,Urban,4.9,639976.45
+1,Month 1,Normal (No Drift),1677.8,2,1,Downtown,12.8,532941.85
+1,Month 1,Normal (No Drift),1820.2,4,3,Urban,26.9,575468.53
+1,Month 1,Normal (No Drift),1888.3,3,3,Urban,21.7,590013.54
+1,Month 1,Normal (No Drift),1895.2,4,3,Downtown,4.5,652945.29
+1,Month 1,Normal (No Drift),2269.3,2,1,Suburban,30.0,551849.67
+1,Month 1,Normal (No Drift),2120.3,2,1,Suburban,21.4,520168.06
+1,Month 1,Normal (No Drift),2722.5,3,2,Urban,33.7,683585.35
+1,Month 1,Normal (No Drift),2776.7,1,1,Suburban,23.8,597244.93
+1,Month 1,Normal (No Drift),1883.5,5,4,Rural,7.0,605434.02
+1,Month 1,Normal (No Drift),750.0,1,1,Downtown,17.1,352754.4
+1,Month 1,Normal (No Drift),2369.5,4,3,Suburban,23.0,669519.46
+1,Month 1,Normal (No Drift),1623.0,3,2,Suburban,2.0,493292.17
+1,Month 1,Normal (No Drift),1513.4,3,3,Suburban,1.5,500492.69
+1,Month 1,Normal (No Drift),1682.7,1,1,Suburban,5.4,448378.08
+1,Month 1,Normal (No Drift),1662.4,3,2,Suburban,9.6,491574.28
+1,Month 1,Normal (No Drift),2107.2,3,2,Urban,15.6,604485.34
+1,Month 1,Normal (No Drift),1195.0,2,1,Rural,17.6,328657.52
+1,Month 1,Normal (No Drift),1397.4,4,3,Downtown,5.7,594956.22
+1,Month 1,Normal (No Drift),1994.1,2,2,Suburban,23.9,535561.37
+1,Month 1,Normal (No Drift),2111.6,3,2,Suburban,21.3,549196.38
+1,Month 1,Normal (No Drift),2119.4,3,2,Urban,11.0,582122.96
+1,Month 1,Normal (No Drift),1519.4,2,1,Downtown,1.5,507780.24
+1,Month 1,Normal (No Drift),1439.1,4,3,Downtown,3.6,626866.37
+1,Month 1,Normal (No Drift),1637.2,3,2,Rural,14.3,488095.57
+1,Month 1,Normal (No Drift),1950.7,1,1,Urban,6.2,541989.66
+1,Month 1,Normal (No Drift),2473.9,3,2,Urban,13.8,666844.81
+1,Month 1,Normal (No Drift),990.1,3,2,Suburban,22.4,343937.61
+1,Month 1,Normal (No Drift),1757.3,3,3,Urban,19.6,530814.17
+1,Month 1,Normal (No Drift),1290.3,3,2,Suburban,8.9,428841.58
+1,Month 1,Normal (No Drift),1156.1,1,1,Urban,12.7,365380.1
+1,Month 1,Normal (No Drift),2256.1,2,2,Urban,21.9,620265.93
+1,Month 1,Normal (No Drift),2078.7,4,3,Suburban,30.3,615501.01
+1,Month 1,Normal (No Drift),2038.8,1,1,Suburban,26.6,480924.26
+1,Month 1,Normal (No Drift),2236.8,4,4,Suburban,19.8,656300.57
+1,Month 1,Normal (No Drift),1648.5,1,1,Suburban,13.3,409429.21
+1,Month 1,Normal (No Drift),1668.3,4,3,Suburban,13.4,553010.14
+1,Month 1,Normal (No Drift),2768.0,3,2,Suburban,30.9,682866.76
+1,Month 1,Normal (No Drift),1746.4,3,2,Suburban,2.3,530937.54
+1,Month 1,Normal (No Drift),2158.8,2,1,Suburban,34.6,496212.69
+1,Month 1,Normal (No Drift),1852.7,1,1,Rural,23.6,423031.42
+1,Month 1,Normal (No Drift),1073.7,2,2,Suburban,24.2,367717.11
+1,Month 1,Normal (No Drift),991.3,2,2,Suburban,2.3,354888.65
+1,Month 1,Normal (No Drift),1606.8,2,2,Urban,21.6,475683.05
+1,Month 1,Normal (No Drift),2293.6,3,2,Rural,17.5,579470.18
+1,Month 1,Normal (No Drift),2181.1,3,2,Urban,4.6,625115.69
+1,Month 1,Normal (No Drift),2233.9,4,3,Suburban,10.4,675277.6
+1,Month 1,Normal (No Drift),1435.4,3,2,Urban,31.3,476321.28
+1,Month 1,Normal (No Drift),2528.7,3,2,Downtown,19.7,715547.59
+1,Month 1,Normal (No Drift),1444.7,3,3,Downtown,15.1,566115.48
+1,Month 1,Normal (No Drift),1939.4,3,2,Urban,3.5,588525.03
+1,Month 1,Normal (No Drift),1845.7,3,2,Rural,25.3,471255.11
+1,Month 1,Normal (No Drift),1777.0,4,3,Rural,24.9,506894.83
+1,Month 1,Normal (No Drift),2412.2,2,1,Urban,21.9,610592.14
+1,Month 1,Normal (No Drift),1553.9,1,1,Urban,18.3,444419.65
+1,Month 1,Normal (No Drift),1283.2,3,2,Urban,15.7,468287.2
+1,Month 1,Normal (No Drift),1858.4,2,2,Downtown,21.2,604661.1
+1,Month 1,Normal (No Drift),1682.1,4,3,Suburban,8.9,548407.15
+1,Month 1,Normal (No Drift),3268.5,4,3,Rural,33.0,797798.62
+1,Month 1,Normal (No Drift),2134.1,1,1,Suburban,21.0,486838.57
+1,Month 1,Normal (No Drift),1678.1,2,1,Urban,11.6,467734.59
+1,Month 1,Normal (No Drift),1406.4,3,2,Rural,16.3,388808.39
+1,Month 1,Normal (No Drift),1060.3,3,2,Suburban,28.4,369629.26
+1,Month 1,Normal (No Drift),1419.4,2,2,Urban,6.5,463696.12
+1,Month 1,Normal (No Drift),1898.3,3,2,Suburban,11.0,550035.23
+1,Month 1,Normal (No Drift),2449.5,3,3,Suburban,24.1,655803.42
+1,Month 1,Normal (No Drift),2321.1,2,1,Suburban,11.7,547400.26
+1,Month 1,Normal (No Drift),1946.2,1,1,Suburban,27.9,453958.01
+1,Month 1,Normal (No Drift),1714.3,4,3,Suburban,5.4,560446.29
+1,Month 1,Normal (No Drift),1962.9,2,1,Rural,26.9,424243.51
+1,Month 1,Normal (No Drift),1632.2,4,3,Rural,3.3,504259.55
+1,Month 1,Normal (No Drift),2571.7,3,2,Suburban,1.4,658916.59
+1,Month 1,Normal (No Drift),1770.5,3,3,Downtown,31.5,626655.34
+1,Month 1,Normal (No Drift),1813.7,4,3,Suburban,20.8,569433.84
+1,Month 1,Normal (No Drift),919.4,4,3,Suburban,13.0,428561.26
+1,Month 1,Normal (No Drift),1767.9,3,3,Suburban,8.9,527106.97
+1,Month 1,Normal (No Drift),2201.3,2,1,Rural,22.0,515973.27
+1,Month 1,Normal (No Drift),1401.6,4,3,Rural,18.3,481652.24
+1,Month 1,Normal (No Drift),1534.7,3,2,Suburban,34.7,422411.12
+1,Month 1,Normal (No Drift),2182.9,2,2,Suburban,34.4,533562.23
+1,Month 1,Normal (No Drift),1229.8,4,3,Suburban,22.6,469802.26
+1,Month 1,Normal (No Drift),2294.3,2,1,Urban,16.1,595500.84
+1,Month 1,Normal (No Drift),1626.5,1,1,Urban,17.7,434991.33
+1,Month 1,Normal (No Drift),1686.8,1,1,Suburban,24.2,413983.03
+1,Month 1,Normal (No Drift),1378.0,3,3,Downtown,4.5,557285.33
+1,Month 1,Normal (No Drift),2008.8,3,3,Suburban,12.2,589812.3
+1,Month 1,Normal (No Drift),2883.1,2,1,Rural,3.6,655593.09
+1,Month 1,Normal (No Drift),2178.2,2,1,Urban,3.5,567780.72
+1,Month 1,Normal (No Drift),1487.0,2,1,Urban,7.7,468812.95
+1,Month 1,Normal (No Drift),2327.0,3,2,Downtown,17.5,678244.56
+1,Month 1,Normal (No Drift),1717.0,1,1,Downtown,27.7,487309.09
+1,Month 1,Normal (No Drift),2427.3,4,4,Suburban,17.5,717796.02
+1,Month 1,Normal (No Drift),2188.8,2,1,Suburban,12.4,555222.94
+1,Month 1,Normal (No Drift),750.0,5,4,Rural,3.8,426841.15
+1,Month 1,Normal (No Drift),1428.3,2,2,Suburban,19.7,408532.13
+1,Month 1,Normal (No Drift),2246.6,4,3,Suburban,10.2,646927.6
+1,Month 1,Normal (No Drift),1913.7,2,2,Urban,21.9,553143.1
+1,Month 1,Normal (No Drift),1420.0,1,1,Downtown,34.2,441480.24
+1,Month 1,Normal (No Drift),1583.9,4,3,Downtown,4.8,607812.62
+1,Month 1,Normal (No Drift),1049.4,4,3,Rural,8.2,418482.89
+1,Month 1,Normal (No Drift),1812.9,3,2,Urban,17.1,539738.72
+1,Month 1,Normal (No Drift),2778.5,3,3,Suburban,33.9,725827.41
+1,Month 1,Normal (No Drift),2188.1,3,2,Urban,27.2,628119.54
+1,Month 1,Normal (No Drift),2770.0,4,3,Downtown,31.5,811113.34
+1,Month 1,Normal (No Drift),2220.6,2,2,Suburban,12.3,595440.35
+1,Month 1,Normal (No Drift),2281.5,3,2,Suburban,34.7,584039.36
+1,Month 1,Normal (No Drift),2679.1,3,1,Suburban,4.5,669380.4
+1,Month 1,Normal (No Drift),2008.5,3,2,Urban,2.8,622563.47
+1,Month 1,Normal (No Drift),1771.4,4,3,Rural,30.1,517571.73
+1,Month 1,Normal (No Drift),2283.7,2,1,Urban,32.5,562042.81
+1,Month 1,Normal (No Drift),2460.6,2,1,Rural,4.1,537550.04
+1,Month 1,Normal (No Drift),1648.4,3,2,Suburban,4.9,503883.41
+1,Month 1,Normal (No Drift),1546.9,3,2,Rural,2.1,467725.31
+1,Month 1,Normal (No Drift),1908.3,2,2,Downtown,4.6,623131.84
+1,Month 1,Normal (No Drift),2199.2,3,2,Suburban,8.1,605498.34
+1,Month 1,Normal (No Drift),2185.2,4,4,Rural,34.0,601909.34
+1,Month 1,Normal (No Drift),1251.8,2,1,Suburban,23.7,335343.39
+1,Month 1,Normal (No Drift),2652.9,3,3,Rural,27.5,641606.94
+1,Month 1,Normal (No Drift),1580.7,3,2,Rural,27.4,428931.59
+1,Month 1,Normal (No Drift),1738.7,3,3,Downtown,19.2,608462.03
+1,Month 1,Normal (No Drift),1470.9,4,3,Urban,28.1,537757.16
+1,Month 1,Normal (No Drift),2983.3,3,3,Suburban,21.3,778479.11
+1,Month 1,Normal (No Drift),1951.7,3,2,Urban,11.7,582531.11
+1,Month 1,Normal (No Drift),1492.6,3,2,Suburban,20.1,457866.84
+1,Month 1,Normal (No Drift),2212.8,3,2,Downtown,19.1,664306.83
+1,Month 1,Normal (No Drift),2173.0,3,2,Downtown,29.0,652250.11
+1,Month 1,Normal (No Drift),1771.2,4,3,Rural,34.4,496711.06
+1,Month 1,Normal (No Drift),2203.1,3,2,Suburban,15.0,592864.58
+1,Month 1,Normal (No Drift),1503.4,2,1,Downtown,27.0,492202.41
+1,Month 1,Normal (No Drift),1643.0,2,2,Rural,4.4,450834.66
+1,Month 1,Normal (No Drift),1005.7,1,1,Downtown,27.4,382708.71
+1,Month 1,Normal (No Drift),1293.9,1,1,Suburban,13.6,367954.82
+1,Month 1,Normal (No Drift),2609.2,4,3,Suburban,2.3,699459.22
+1,Month 1,Normal (No Drift),2539.4,3,2,Suburban,13.4,661262.65
+1,Month 1,Normal (No Drift),1877.6,3,2,Urban,21.8,546582.2
+1,Month 1,Normal (No Drift),2548.4,3,2,Urban,5.1,675977.92
+1,Month 1,Normal (No Drift),1782.8,4,3,Rural,32.4,496758.86
+1,Month 1,Normal (No Drift),1747.8,3,2,Suburban,3.6,530357.52
+1,Month 1,Normal (No Drift),1873.7,4,3,Suburban,32.6,560682.66
+1,Month 1,Normal (No Drift),1797.5,3,2,Urban,25.0,513791.79
+1,Month 1,Normal (No Drift),1759.6,4,4,Downtown,12.2,681672.4
+1,Month 1,Normal (No Drift),2330.2,3,2,Rural,14.3,557481.58
+1,Month 1,Normal (No Drift),1913.1,2,1,Downtown,26.2,560076.02
+1,Month 1,Normal (No Drift),2149.2,3,3,Urban,21.5,636099.87
+1,Month 1,Normal (No Drift),2283.2,3,2,Urban,23.8,638620.68
+1,Month 1,Normal (No Drift),2013.0,2,1,Rural,14.2,500352.17
+1,Month 1,Normal (No Drift),1442.5,3,2,Urban,17.6,464620.69
+1,Month 1,Normal (No Drift),1281.8,2,1,Suburban,34.7,357406.21
+1,Month 1,Normal (No Drift),1912.5,1,1,Suburban,8.3,471439.63
+1,Month 1,Normal (No Drift),1778.1,4,3,Suburban,15.2,572941.09
+1,Month 1,Normal (No Drift),1886.7,3,2,Downtown,10.9,623394.11
+1,Month 1,Normal (No Drift),1843.3,4,3,Suburban,27.0,559566.66
+1,Month 1,Normal (No Drift),2935.1,3,2,Suburban,27.0,699355.06
+1,Month 1,Normal (No Drift),1291.3,3,3,Suburban,10.9,447194.15
+1,Month 1,Normal (No Drift),1014.2,3,2,Urban,3.8,440162.88
+1,Month 1,Normal (No Drift),1989.6,3,2,Suburban,1.4,575540.18
+1,Month 1,Normal (No Drift),1691.9,5,4,Urban,15.5,644762.82
+1,Month 1,Normal (No Drift),1982.7,2,1,Suburban,15.0,497878.42
+1,Month 1,Normal (No Drift),2095.2,4,3,Suburban,34.6,590747.09
+1,Month 1,Normal (No Drift),2389.3,4,3,Urban,17.0,685286.37
+1,Month 1,Normal (No Drift),1217.0,3,2,Suburban,9.7,429662.62
+1,Month 1,Normal (No Drift),1616.2,4,3,Suburban,31.3,504802.36
+1,Month 1,Normal (No Drift),2030.1,3,3,Suburban,17.7,613527.96
+1,Month 1,Normal (No Drift),2173.6,5,4,Rural,21.4,624255.27
+1,Month 1,Normal (No Drift),2771.2,3,3,Urban,4.3,764395.43
+1,Month 1,Normal (No Drift),2251.4,1,1,Suburban,14.0,552075.99
+1,Month 1,Normal (No Drift),1826.1,4,2,Suburban,33.1,536148.42
+1,Month 1,Normal (No Drift),1476.0,3,3,Rural,21.0,452790.58
+1,Month 1,Normal (No Drift),1613.0,3,3,Urban,12.7,533763.07
+1,Month 1,Normal (No Drift),1601.1,3,3,Urban,22.3,514959.85
+1,Month 1,Normal (No Drift),2125.2,2,1,Downtown,32.0,600311.05
+1,Month 1,Normal (No Drift),1957.9,3,2,Downtown,10.3,655884.27
+1,Month 1,Normal (No Drift),1294.1,4,3,Downtown,18.2,551887.64
+1,Month 1,Normal (No Drift),1666.9,1,1,Urban,33.6,417670.29
+1,Month 1,Normal (No Drift),2218.6,2,1,Urban,6.9,545829.59
+1,Month 1,Normal (No Drift),1997.7,1,1,Suburban,25.5,456870.28
+1,Month 1,Normal (No Drift),2088.8,3,2,Rural,21.9,526758.94
+1,Month 1,Normal (No Drift),2010.8,3,2,Urban,24.1,601361.74
+1,Month 1,Normal (No Drift),2533.1,4,4,Suburban,12.9,739154.05
+1,Month 1,Normal (No Drift),1949.1,4,3,Rural,11.7,569836.36
+1,Month 1,Normal (No Drift),1687.9,3,3,Rural,24.3,477686.09
+1,Month 1,Normal (No Drift),1465.4,2,2,Rural,8.3,403533.2
+1,Month 1,Normal (No Drift),1954.8,4,3,Rural,15.3,583385.92
+1,Month 1,Normal (No Drift),824.9,4,3,Rural,7.4,376231.6
+1,Month 1,Normal (No Drift),1772.6,3,3,Suburban,1.3,527255.15
+1,Month 1,Normal (No Drift),1763.5,3,2,Downtown,34.0,563137.53
+1,Month 1,Normal (No Drift),1276.9,4,3,Downtown,15.7,545342.46
+1,Month 1,Normal (No Drift),1460.1,3,3,Suburban,34.0,459974.83
+1,Month 1,Normal (No Drift),2190.1,3,3,Suburban,5.8,635355.39
+1,Month 1,Normal (No Drift),1946.9,3,2,Rural,21.0,503028.12
+1,Month 1,Normal (No Drift),1892.8,1,1,Suburban,7.8,471462.03
+1,Month 1,Normal (No Drift),1978.7,3,2,Rural,27.9,522319.87
+1,Month 1,Normal (No Drift),1888.9,3,2,Suburban,27.6,511700.72
+1,Month 1,Normal (No Drift),2372.0,2,1,Suburban,4.8,609751.88
+1,Month 1,Normal (No Drift),1901.8,1,1,Urban,32.0,467541.22
+1,Month 1,Normal (No Drift),1237.6,2,2,Suburban,7.6,409530.16
+1,Month 1,Normal (No Drift),2534.7,3,3,Urban,21.8,695321.15
+1,Month 1,Normal (No Drift),2005.5,4,4,Urban,34.5,644858.6
+1,Month 1,Normal (No Drift),1602.5,5,3,Suburban,31.0,547007.1
+1,Month 1,Normal (No Drift),1323.6,2,1,Suburban,33.5,373257.01
+1,Month 1,Normal (No Drift),2016.3,3,3,Suburban,12.6,577639.74
+1,Month 1,Normal (No Drift),1800.8,4,3,Suburban,4.6,565245.61
+1,Month 1,Normal (No Drift),2511.1,2,2,Downtown,7.4,748853.19
+1,Month 1,Normal (No Drift),1704.7,3,2,Urban,18.0,523247.54
+1,Month 1,Normal (No Drift),1498.3,4,4,Suburban,28.0,541923.91
+1,Month 1,Normal (No Drift),2226.2,1,1,Urban,6.1,538760.66
+1,Month 1,Normal (No Drift),2238.6,4,3,Suburban,23.4,633790.07
+1,Month 1,Normal (No Drift),1920.8,4,3,Suburban,12.0,593036.08
+1,Month 1,Normal (No Drift),2134.1,1,1,Suburban,12.6,516693.51
+1,Month 1,Normal (No Drift),1834.2,1,1,Rural,23.5,369287.46
+1,Month 1,Normal (No Drift),1948.2,1,1,Rural,16.9,439865.42
+1,Month 1,Normal (No Drift),2339.3,2,2,Downtown,28.6,640660.66
+1,Month 1,Normal (No Drift),2112.6,3,2,Suburban,6.3,589644.73
+1,Month 1,Normal (No Drift),1778.9,3,3,Suburban,27.9,515119.33
+1,Month 1,Normal (No Drift),2418.0,2,1,Urban,3.2,608814.01
+1,Month 1,Normal (No Drift),856.8,4,2,Downtown,7.6,461471.1
+1,Month 1,Normal (No Drift),2711.9,3,3,Rural,23.3,648152.45
+1,Month 1,Normal (No Drift),1133.5,1,1,Suburban,30.1,308154.77
+1,Month 1,Normal (No Drift),1586.6,2,2,Suburban,9.6,449207.82
+1,Month 1,Normal (No Drift),1832.8,3,2,Urban,12.1,531908.04
+1,Month 1,Normal (No Drift),1788.5,3,2,Downtown,19.3,609064.71
+1,Month 1,Normal (No Drift),2272.7,2,1,Downtown,8.2,621267.66
+1,Month 1,Normal (No Drift),1405.7,2,2,Urban,28.6,441881.55
+1,Month 1,Normal (No Drift),1959.5,4,3,Rural,27.3,561175.72
+1,Month 1,Normal (No Drift),1607.2,5,4,Urban,5.9,617493.34
+1,Month 1,Normal (No Drift),1974.0,2,2,Rural,16.8,479618.14
+1,Month 1,Normal (No Drift),1822.8,3,2,Rural,27.3,479304.25
+1,Month 1,Normal (No Drift),1889.0,3,2,Downtown,12.5,635633.65
+1,Month 1,Normal (No Drift),1619.0,3,2,Suburban,22.5,463012.6
+1,Month 1,Normal (No Drift),1635.8,3,2,Suburban,2.7,503030.11
+1,Month 1,Normal (No Drift),1970.7,4,3,Urban,21.7,597012.15
+1,Month 1,Normal (No Drift),2246.4,3,3,Urban,6.2,660405.85
+1,Month 1,Normal (No Drift),1598.7,3,2,Rural,29.2,435125.72
+1,Month 1,Normal (No Drift),1485.1,3,3,Suburban,13.1,482682.41
+1,Month 1,Normal (No Drift),2107.7,5,4,Suburban,10.6,672354.33
+1,Month 1,Normal (No Drift),1836.3,4,3,Downtown,29.6,619688.31
+1,Month 1,Normal (No Drift),2198.8,1,1,Suburban,2.7,532972.41
+1,Month 1,Normal (No Drift),1469.6,2,1,Suburban,14.5,429076.15
+1,Month 1,Normal (No Drift),1102.6,3,2,Suburban,13.6,383565.95
+1,Month 1,Normal (No Drift),1626.1,2,1,Urban,10.7,465482.59
+1,Month 1,Normal (No Drift),1528.1,3,2,Suburban,32.0,461761.66
+1,Month 1,Normal (No Drift),1816.9,4,3,Rural,26.5,543955.69
+1,Month 1,Normal (No Drift),1582.5,3,2,Urban,3.2,503053.3
+1,Month 1,Normal (No Drift),2161.2,5,4,Rural,25.3,634853.66
+1,Month 1,Normal (No Drift),1729.0,2,2,Urban,18.9,515996.93
+1,Month 1,Normal (No Drift),1913.2,4,3,Suburban,31.6,570486.57
+1,Month 1,Normal (No Drift),1916.2,4,3,Suburban,11.6,557380.09
+1,Month 1,Normal (No Drift),1931.9,3,2,Suburban,20.5,545021.89
+1,Month 1,Normal (No Drift),1839.9,3,2,Urban,18.0,576938.31
+1,Month 1,Normal (No Drift),2064.5,2,1,Suburban,17.6,515619.5
+1,Month 1,Normal (No Drift),1515.8,4,3,Suburban,16.5,503644.41
+1,Month 1,Normal (No Drift),2437.8,3,2,Urban,8.0,662119.77
+1,Month 1,Normal (No Drift),1750.7,2,2,Suburban,26.7,503549.65
+1,Month 1,Normal (No Drift),1299.1,3,3,Suburban,16.3,473020.61
+1,Month 1,Normal (No Drift),1929.0,3,2,Downtown,33.6,612225.28
+1,Month 1,Normal (No Drift),1492.5,2,1,Rural,9.9,392680.19
+1,Month 1,Normal (No Drift),2129.4,1,1,Suburban,24.2,486100.41
+1,Month 1,Normal (No Drift),2778.0,3,3,Suburban,33.0,696864.62
+1,Month 1,Normal (No Drift),1519.6,3,3,Rural,23.6,453854.77
+1,Month 1,Normal (No Drift),1989.6,4,3,Suburban,30.6,594737.37
+1,Month 1,Normal (No Drift),1112.7,4,2,Rural,29.1,394306.33
+1,Month 1,Normal (No Drift),2040.6,3,2,Suburban,13.2,581318.7
+1,Month 1,Normal (No Drift),1478.0,4,3,Rural,21.4,450814.64
+1,Month 1,Normal (No Drift),1587.6,3,2,Suburban,6.3,496240.41
+1,Month 1,Normal (No Drift),1387.5,3,2,Rural,19.2,419728.23
+1,Month 1,Normal (No Drift),2157.5,2,2,Suburban,8.8,577128.24
+1,Month 1,Normal (No Drift),2273.1,3,3,Urban,26.3,639432.61
+1,Month 1,Normal (No Drift),1859.8,3,2,Suburban,19.0,570331.07
+1,Month 1,Normal (No Drift),1486.9,1,1,Suburban,15.0,374578.47
+1,Month 1,Normal (No Drift),2517.6,3,2,Downtown,10.1,715179.11
+1,Month 1,Normal (No Drift),1534.8,4,4,Urban,35.0,563647.46
+1,Month 1,Normal (No Drift),941.9,3,2,Rural,3.4,379810.7
+2,Month 2,Data Drift (Feature Shift),2181.9,2,1,Urban,16.7,559822.27
+2,Month 2,Data Drift (Feature Shift),2467.1,3,2,Rural,1.5,620968.72
+2,Month 2,Data Drift (Feature Shift),3138.6,2,1,Downtown,2.8,810062.37
+2,Month 2,Data Drift (Feature Shift),2591.1,3,3,Rural,26.8,630428.75
+2,Month 2,Data Drift (Feature Shift),2432.7,5,4,Urban,26.2,739288.51
+2,Month 2,Data Drift (Feature Shift),2882.8,3,2,Downtown,11.4,818878.98
+2,Month 2,Data Drift (Feature Shift),2736.3,2,1,Urban,26.8,666089.7
+2,Month 2,Data Drift (Feature Shift),3115.2,5,4,Suburban,18.2,858985.24
+2,Month 2,Data Drift (Feature Shift),3245.7,5,4,Suburban,24.4,875004.28
+2,Month 2,Data Drift (Feature Shift),2753.5,4,3,Downtown,13.4,826021.35
+2,Month 2,Data Drift (Feature Shift),2745.9,5,4,Rural,4.3,793075.84
+2,Month 2,Data Drift (Feature Shift),2707.1,3,3,Suburban,13.6,709457.44
+2,Month 2,Data Drift (Feature Shift),2844.6,4,3,Suburban,14.3,762770.0
+2,Month 2,Data Drift (Feature Shift),2627.6,4,4,Downtown,17.0,799388.62
+2,Month 2,Data Drift (Feature Shift),2599.7,5,4,Suburban,4.1,760104.26
+2,Month 2,Data Drift (Feature Shift),3198.3,4,3,Urban,29.8,810966.87
+2,Month 2,Data Drift (Feature Shift),3358.1,3,3,Suburban,8.1,847883.15
+2,Month 2,Data Drift (Feature Shift),1846.2,4,3,Downtown,6.8,629367.19
+2,Month 2,Data Drift (Feature Shift),2605.0,3,2,Urban,16.3,683937.19
+2,Month 2,Data Drift (Feature Shift),2255.7,3,2,Urban,16.6,583596.7
+2,Month 2,Data Drift (Feature Shift),2444.5,2,2,Suburban,13.8,600190.4
+2,Month 2,Data Drift (Feature Shift),2801.3,5,4,Downtown,23.4,859132.57
+2,Month 2,Data Drift (Feature Shift),2934.7,3,3,Rural,16.0,731767.65
+2,Month 2,Data Drift (Feature Shift),2543.9,4,3,Urban,18.7,732589.07
+2,Month 2,Data Drift (Feature Shift),1643.3,3,3,Downtown,22.0,580898.09
+2,Month 2,Data Drift (Feature Shift),2117.5,5,4,Downtown,1.7,786649.67
+2,Month 2,Data Drift (Feature Shift),3048.2,3,2,Rural,17.5,701407.66
+2,Month 2,Data Drift (Feature Shift),1229.8,4,3,Downtown,26.6,538470.39
+2,Month 2,Data Drift (Feature Shift),3193.7,4,3,Downtown,1.5,891205.1
+2,Month 2,Data Drift (Feature Shift),2860.6,3,2,Downtown,12.8,773732.11
+2,Month 2,Data Drift (Feature Shift),3258.1,3,2,Suburban,27.9,749142.29
+2,Month 2,Data Drift (Feature Shift),2500.7,4,4,Downtown,11.2,805956.49
+2,Month 2,Data Drift (Feature Shift),1569.3,5,4,Rural,14.3,547061.86
+2,Month 2,Data Drift (Feature Shift),2815.2,4,3,Downtown,29.5,835406.95
+2,Month 2,Data Drift (Feature Shift),3237.3,3,3,Rural,6.8,779849.54
+2,Month 2,Data Drift (Feature Shift),3062.4,5,4,Downtown,2.9,894118.03
+2,Month 2,Data Drift (Feature Shift),2268.7,3,3,Downtown,25.9,702438.54
+2,Month 2,Data Drift (Feature Shift),2643.4,4,3,Downtown,26.2,764037.3
+2,Month 2,Data Drift (Feature Shift),2333.6,4,3,Downtown,14.7,729727.98
+2,Month 2,Data Drift (Feature Shift),2190.4,3,3,Downtown,15.9,683628.43
+2,Month 2,Data Drift (Feature Shift),3077.7,4,3,Downtown,25.2,852884.2
+2,Month 2,Data Drift (Feature Shift),2001.2,4,3,Downtown,22.4,656928.63
+2,Month 2,Data Drift (Feature Shift),2153.1,5,4,Downtown,8.7,772285.04
+2,Month 2,Data Drift (Feature Shift),2048.0,3,2,Downtown,1.5,637596.82
+2,Month 2,Data Drift (Feature Shift),1854.9,3,3,Urban,14.9,593550.92
+2,Month 2,Data Drift (Feature Shift),2673.2,4,4,Suburban,25.9,772866.51
+2,Month 2,Data Drift (Feature Shift),3180.8,1,1,Downtown,27.0,737014.0
+2,Month 2,Data Drift (Feature Shift),2507.6,2,2,Downtown,28.7,682952.01
+2,Month 2,Data Drift (Feature Shift),1847.1,5,4,Urban,26.5,608237.14
+2,Month 2,Data Drift (Feature Shift),3020.0,3,3,Suburban,17.8,754377.73
+2,Month 2,Data Drift (Feature Shift),3442.9,5,4,Downtown,13.9,998856.74
+2,Month 2,Data Drift (Feature Shift),2276.9,3,3,Downtown,23.5,713445.68
+2,Month 2,Data Drift (Feature Shift),2360.7,3,3,Downtown,22.5,719586.65
+2,Month 2,Data Drift (Feature Shift),2857.8,4,3,Downtown,16.6,847192.48
+2,Month 2,Data Drift (Feature Shift),3410.9,4,3,Urban,3.5,933219.03
+2,Month 2,Data Drift (Feature Shift),2340.1,4,3,Urban,27.9,706557.09
+2,Month 2,Data Drift (Feature Shift),1933.8,4,3,Suburban,14.2,586939.11
+2,Month 2,Data Drift (Feature Shift),2915.7,4,3,Downtown,11.5,827792.22
+2,Month 2,Data Drift (Feature Shift),2999.5,3,3,Suburban,19.3,747642.99
+2,Month 2,Data Drift (Feature Shift),2603.1,3,3,Downtown,20.5,748736.33
+2,Month 2,Data Drift (Feature Shift),2320.9,3,2,Downtown,7.1,707112.61
+2,Month 2,Data Drift (Feature Shift),3097.2,4,3,Downtown,25.3,848491.89
+2,Month 2,Data Drift (Feature Shift),2864.0,3,2,Downtown,9.4,791761.82
+2,Month 2,Data Drift (Feature Shift),2215.8,3,3,Suburban,6.4,643276.89
+2,Month 2,Data Drift (Feature Shift),2624.5,3,3,Downtown,12.8,773721.2
+2,Month 2,Data Drift (Feature Shift),1924.1,2,2,Suburban,22.2,498126.02
+2,Month 2,Data Drift (Feature Shift),2942.9,2,2,Suburban,29.0,700739.51
+2,Month 2,Data Drift (Feature Shift),2468.9,4,3,Downtown,24.5,728953.78
+2,Month 2,Data Drift (Feature Shift),2382.1,3,3,Suburban,28.3,630861.26
+2,Month 2,Data Drift (Feature Shift),2583.6,5,4,Downtown,5.1,847913.26
+2,Month 2,Data Drift (Feature Shift),2620.2,4,4,Downtown,3.1,835395.01
+2,Month 2,Data Drift (Feature Shift),3047.5,1,1,Suburban,17.2,667123.04
+2,Month 2,Data Drift (Feature Shift),2895.5,4,4,Suburban,9.4,805516.53
+2,Month 2,Data Drift (Feature Shift),2521.8,2,2,Downtown,25.0,693268.12
+2,Month 2,Data Drift (Feature Shift),2981.8,4,3,Downtown,20.5,845763.68
+2,Month 2,Data Drift (Feature Shift),2800.4,5,4,Downtown,29.2,853884.44
+2,Month 2,Data Drift (Feature Shift),2386.7,4,4,Downtown,8.4,779271.92
+2,Month 2,Data Drift (Feature Shift),2537.6,4,3,Downtown,15.1,791303.8
+2,Month 2,Data Drift (Feature Shift),2525.9,3,3,Downtown,15.5,745243.0
+2,Month 2,Data Drift (Feature Shift),2852.6,3,3,Suburban,7.9,753182.19
+2,Month 2,Data Drift (Feature Shift),2416.5,4,3,Downtown,18.1,755246.53
+2,Month 2,Data Drift (Feature Shift),2404.8,3,3,Downtown,13.9,727779.55
+2,Month 2,Data Drift (Feature Shift),3584.4,3,2,Downtown,14.0,923191.96
+2,Month 2,Data Drift (Feature Shift),3069.9,3,3,Downtown,11.5,843643.75
+2,Month 2,Data Drift (Feature Shift),2219.7,4,4,Rural,1.5,661380.16
+2,Month 2,Data Drift (Feature Shift),2885.5,3,3,Suburban,16.1,740393.39
+2,Month 2,Data Drift (Feature Shift),2659.2,5,5,Rural,10.7,759616.35
+2,Month 2,Data Drift (Feature Shift),2795.8,2,2,Downtown,1.0,776048.15
+2,Month 2,Data Drift (Feature Shift),2668.7,3,3,Downtown,9.9,794292.81
+2,Month 2,Data Drift (Feature Shift),3194.8,4,4,Suburban,9.1,866468.28
+2,Month 2,Data Drift (Feature Shift),2772.8,3,3,Urban,12.4,766082.99
+2,Month 2,Data Drift (Feature Shift),2569.0,4,4,Downtown,4.8,831630.27
+2,Month 2,Data Drift (Feature Shift),3121.1,3,2,Downtown,15.7,813982.7
+2,Month 2,Data Drift (Feature Shift),2716.6,2,2,Suburban,21.1,688952.4
+2,Month 2,Data Drift (Feature Shift),2660.7,2,1,Downtown,19.3,675372.21
+2,Month 2,Data Drift (Feature Shift),2757.0,5,4,Suburban,24.3,791976.14
+2,Month 2,Data Drift (Feature Shift),2553.2,4,3,Rural,14.1,674759.4
+2,Month 2,Data Drift (Feature Shift),2604.6,4,4,Downtown,16.1,800536.2
+2,Month 2,Data Drift (Feature Shift),2306.7,3,3,Suburban,24.5,624847.89
+2,Month 2,Data Drift (Feature Shift),2224.4,4,3,Downtown,13.4,725347.91
+2,Month 2,Data Drift (Feature Shift),2100.7,3,2,Downtown,21.3,665727.81
+2,Month 2,Data Drift (Feature Shift),1904.0,5,4,Urban,13.6,659537.98
+2,Month 2,Data Drift (Feature Shift),2160.1,4,4,Downtown,13.1,739669.77
+2,Month 2,Data Drift (Feature Shift),2512.9,4,4,Downtown,23.0,759360.03
+2,Month 2,Data Drift (Feature Shift),2651.6,2,2,Downtown,6.1,763366.93
+2,Month 2,Data Drift (Feature Shift),2464.4,4,3,Urban,10.8,705303.63
+2,Month 2,Data Drift (Feature Shift),1422.1,3,2,Urban,7.5,497528.51
+2,Month 2,Data Drift (Feature Shift),3387.3,5,4,Downtown,11.4,980699.58
+2,Month 2,Data Drift (Feature Shift),3143.2,3,3,Suburban,7.7,790148.04
+2,Month 2,Data Drift (Feature Shift),2822.9,3,3,Downtown,17.8,816568.88
+2,Month 2,Data Drift (Feature Shift),3553.7,3,3,Urban,24.1,900412.72
+2,Month 2,Data Drift (Feature Shift),2111.3,3,3,Downtown,23.8,677060.09
+2,Month 2,Data Drift (Feature Shift),3543.8,2,2,Downtown,11.6,897265.79
+2,Month 2,Data Drift (Feature Shift),2117.4,4,3,Downtown,29.7,694835.68
+2,Month 2,Data Drift (Feature Shift),2719.4,4,4,Downtown,18.2,851108.59
+2,Month 2,Data Drift (Feature Shift),1963.1,5,4,Rural,12.6,609754.62
+2,Month 2,Data Drift (Feature Shift),2607.3,4,3,Downtown,25.2,796662.89
+2,Month 2,Data Drift (Feature Shift),2793.1,3,2,Suburban,22.2,703064.09
+2,Month 2,Data Drift (Feature Shift),2522.7,4,3,Downtown,22.7,784700.77
+2,Month 2,Data Drift (Feature Shift),2956.9,2,2,Rural,6.7,665205.21
+2,Month 2,Data Drift (Feature Shift),2649.5,5,4,Urban,14.6,797099.15
+2,Month 2,Data Drift (Feature Shift),2338.8,3,2,Urban,26.0,636288.4
+2,Month 2,Data Drift (Feature Shift),2316.6,3,3,Suburban,15.6,617662.39
+2,Month 2,Data Drift (Feature Shift),3005.5,3,3,Suburban,20.8,776976.62
+2,Month 2,Data Drift (Feature Shift),2273.1,3,3,Downtown,18.1,707758.34
+2,Month 2,Data Drift (Feature Shift),3057.7,3,3,Downtown,25.4,841385.5
+2,Month 2,Data Drift (Feature Shift),3211.4,3,3,Rural,9.3,758154.72
+2,Month 2,Data Drift (Feature Shift),1765.6,4,3,Downtown,17.7,621626.71
+2,Month 2,Data Drift (Feature Shift),3166.5,4,4,Suburban,4.6,840039.42
+2,Month 2,Data Drift (Feature Shift),3630.2,3,3,Suburban,21.0,865457.33
+2,Month 2,Data Drift (Feature Shift),2726.0,3,2,Rural,22.2,649701.99
+2,Month 2,Data Drift (Feature Shift),2899.5,5,4,Urban,2.2,859380.23
+2,Month 2,Data Drift (Feature Shift),3118.5,2,1,Urban,20.6,730281.09
+2,Month 2,Data Drift (Feature Shift),2462.3,5,5,Downtown,13.0,841511.29
+2,Month 2,Data Drift (Feature Shift),2691.1,3,2,Downtown,4.6,775334.56
+2,Month 2,Data Drift (Feature Shift),1942.9,4,3,Suburban,13.2,619754.98
+2,Month 2,Data Drift (Feature Shift),2669.3,4,3,Downtown,6.6,822406.38
+2,Month 2,Data Drift (Feature Shift),2849.1,4,4,Rural,13.1,761371.58
+2,Month 2,Data Drift (Feature Shift),2858.1,4,3,Suburban,12.1,763214.1
+2,Month 2,Data Drift (Feature Shift),3132.7,2,1,Downtown,22.4,753022.64
+2,Month 2,Data Drift (Feature Shift),2212.6,3,2,Urban,23.5,597737.34
+2,Month 2,Data Drift (Feature Shift),2333.7,4,3,Downtown,18.6,746755.83
+2,Month 2,Data Drift (Feature Shift),3547.8,4,3,Downtown,1.7,970869.1
+2,Month 2,Data Drift (Feature Shift),2524.8,3,3,Rural,28.0,632644.3
+2,Month 2,Data Drift (Feature Shift),2700.0,4,3,Urban,20.9,776658.47
+2,Month 2,Data Drift (Feature Shift),2566.5,3,3,Suburban,2.0,707836.33
+2,Month 2,Data Drift (Feature Shift),2189.2,3,3,Suburban,24.7,624765.45
+2,Month 2,Data Drift (Feature Shift),3411.8,4,3,Downtown,6.8,942990.54
+2,Month 2,Data Drift (Feature Shift),2336.1,2,2,Suburban,17.8,577140.74
+2,Month 2,Data Drift (Feature Shift),2036.4,4,4,Downtown,14.5,719508.89
+2,Month 2,Data Drift (Feature Shift),2374.6,2,2,Suburban,13.2,588996.09
+2,Month 2,Data Drift (Feature Shift),1599.1,3,2,Downtown,26.8,575743.28
+2,Month 2,Data Drift (Feature Shift),2274.4,4,4,Suburban,13.7,694816.39
+2,Month 2,Data Drift (Feature Shift),2115.9,4,3,Downtown,3.2,726592.96
+2,Month 2,Data Drift (Feature Shift),2908.7,3,3,Suburban,28.5,746266.38
+2,Month 2,Data Drift (Feature Shift),2263.3,3,2,Urban,27.7,587310.33
+2,Month 2,Data Drift (Feature Shift),3043.9,3,2,Downtown,20.8,820571.51
+2,Month 2,Data Drift (Feature Shift),3299.2,3,2,Downtown,14.6,843681.89
+2,Month 2,Data Drift (Feature Shift),2990.6,5,4,Suburban,3.7,841181.79
+2,Month 2,Data Drift (Feature Shift),2492.3,4,4,Suburban,23.9,705153.05
+2,Month 2,Data Drift (Feature Shift),2670.6,3,2,Downtown,3.2,775765.82
+2,Month 2,Data Drift (Feature Shift),1837.5,2,2,Urban,3.0,551698.26
+2,Month 2,Data Drift (Feature Shift),2533.1,5,4,Downtown,16.6,847228.52
+2,Month 2,Data Drift (Feature Shift),2169.8,4,4,Downtown,5.6,744475.09
+2,Month 2,Data Drift (Feature Shift),2947.2,4,4,Urban,1.2,855043.68
+2,Month 2,Data Drift (Feature Shift),3886.4,4,3,Downtown,13.3,1019951.86
+2,Month 2,Data Drift (Feature Shift),2849.9,3,2,Downtown,5.0,770727.81
+2,Month 2,Data Drift (Feature Shift),1604.4,3,3,Downtown,5.7,590775.55
+2,Month 2,Data Drift (Feature Shift),2419.4,5,5,Suburban,3.2,767590.74
+2,Month 2,Data Drift (Feature Shift),2661.2,4,4,Downtown,6.9,854759.85
+2,Month 2,Data Drift (Feature Shift),2643.7,3,2,Suburban,21.7,667675.68
+2,Month 2,Data Drift (Feature Shift),2234.6,2,1,Downtown,24.5,598636.56
+2,Month 2,Data Drift (Feature Shift),2722.6,3,2,Downtown,14.1,760822.46
+2,Month 2,Data Drift (Feature Shift),1978.7,4,3,Urban,15.7,661289.21
+2,Month 2,Data Drift (Feature Shift),2127.5,3,2,Downtown,1.9,673847.14
+2,Month 2,Data Drift (Feature Shift),2922.9,2,2,Downtown,3.0,783286.22
+2,Month 2,Data Drift (Feature Shift),2092.2,5,4,Downtown,8.5,766189.15
+2,Month 2,Data Drift (Feature Shift),2869.1,3,2,Downtown,16.8,797094.05
+2,Month 2,Data Drift (Feature Shift),1915.3,1,1,Suburban,22.4,453637.71
+2,Month 2,Data Drift (Feature Shift),3482.4,3,3,Suburban,18.5,846561.29
+2,Month 2,Data Drift (Feature Shift),2212.9,3,3,Urban,12.4,648709.16
+2,Month 2,Data Drift (Feature Shift),2488.2,3,3,Suburban,4.4,691344.55
+2,Month 2,Data Drift (Feature Shift),2765.3,5,4,Downtown,23.6,862467.39
+2,Month 2,Data Drift (Feature Shift),2317.3,5,4,Downtown,11.5,802056.62
+2,Month 2,Data Drift (Feature Shift),2671.7,3,3,Rural,22.3,646580.15
+2,Month 2,Data Drift (Feature Shift),2887.7,3,3,Downtown,15.9,805560.39
+2,Month 2,Data Drift (Feature Shift),3080.3,4,3,Downtown,22.4,880572.8
+2,Month 2,Data Drift (Feature Shift),2995.7,3,3,Downtown,27.3,823022.54
+2,Month 2,Data Drift (Feature Shift),2514.1,2,1,Downtown,27.7,665761.26
+2,Month 2,Data Drift (Feature Shift),2526.7,5,5,Suburban,16.5,769403.88
+2,Month 2,Data Drift (Feature Shift),3774.6,3,3,Downtown,15.8,986610.78
+2,Month 2,Data Drift (Feature Shift),3074.9,3,3,Urban,8.7,799423.0
+2,Month 2,Data Drift (Feature Shift),2139.1,3,3,Urban,28.1,621354.4
+2,Month 2,Data Drift (Feature Shift),2650.0,3,3,Urban,14.3,739831.24
+2,Month 2,Data Drift (Feature Shift),2432.4,1,1,Downtown,4.7,668099.33
+2,Month 2,Data Drift (Feature Shift),2532.3,3,3,Downtown,13.5,750398.58
+2,Month 2,Data Drift (Feature Shift),1985.3,3,2,Downtown,4.7,673661.43
+2,Month 2,Data Drift (Feature Shift),2394.0,4,3,Rural,15.6,643524.58
+2,Month 2,Data Drift (Feature Shift),3505.8,3,3,Suburban,17.3,828862.52
+2,Month 2,Data Drift (Feature Shift),2889.5,3,2,Downtown,10.8,801330.55
+2,Month 2,Data Drift (Feature Shift),1354.4,4,4,Downtown,3.1,607892.73
+2,Month 2,Data Drift (Feature Shift),3208.4,5,4,Suburban,28.4,858776.57
+2,Month 2,Data Drift (Feature Shift),3144.8,3,2,Downtown,23.4,825929.78
+2,Month 2,Data Drift (Feature Shift),2420.4,2,2,Suburban,25.3,596816.33
+2,Month 2,Data Drift (Feature Shift),2958.6,3,3,Downtown,11.6,821283.56
+2,Month 2,Data Drift (Feature Shift),2170.3,4,3,Urban,23.1,671282.98
+2,Month 2,Data Drift (Feature Shift),2364.9,2,2,Urban,15.1,609927.32
+2,Month 2,Data Drift (Feature Shift),3349.3,3,2,Downtown,6.8,863976.77
+2,Month 2,Data Drift (Feature Shift),2464.1,1,1,Suburban,4.6,581664.92
+2,Month 2,Data Drift (Feature Shift),1665.1,2,1,Urban,11.0,505334.02
+2,Month 2,Data Drift (Feature Shift),2568.3,3,2,Downtown,5.0,740684.16
+2,Month 2,Data Drift (Feature Shift),2560.7,3,3,Urban,29.9,705693.32
+2,Month 2,Data Drift (Feature Shift),3199.2,4,3,Downtown,2.4,925288.22
+2,Month 2,Data Drift (Feature Shift),2607.2,4,3,Downtown,13.8,805302.22
+2,Month 2,Data Drift (Feature Shift),2389.2,3,3,Downtown,14.1,727921.64
+2,Month 2,Data Drift (Feature Shift),3122.5,3,3,Downtown,9.7,849386.55
+2,Month 2,Data Drift (Feature Shift),2660.4,3,3,Urban,17.6,693129.82
+2,Month 2,Data Drift (Feature Shift),2225.0,2,2,Suburban,5.3,579546.14
+2,Month 2,Data Drift (Feature Shift),3177.5,5,5,Downtown,23.7,977626.79
+2,Month 2,Data Drift (Feature Shift),2696.8,5,5,Downtown,10.6,873377.83
+2,Month 2,Data Drift (Feature Shift),2601.5,3,3,Urban,18.1,725795.34
+2,Month 2,Data Drift (Feature Shift),2689.0,2,2,Downtown,21.8,712385.8
+2,Month 2,Data Drift (Feature Shift),2064.7,3,3,Downtown,26.8,663447.16
+2,Month 2,Data Drift (Feature Shift),2336.2,4,3,Downtown,25.2,743685.55
+2,Month 2,Data Drift (Feature Shift),2601.8,4,4,Downtown,18.6,804915.99
+2,Month 2,Data Drift (Feature Shift),2502.7,4,4,Suburban,12.3,727034.45
+2,Month 2,Data Drift (Feature Shift),3236.2,4,3,Downtown,15.6,894958.88
+2,Month 2,Data Drift (Feature Shift),2708.7,3,2,Suburban,23.3,680977.6
+2,Month 2,Data Drift (Feature Shift),3027.5,4,3,Downtown,26.4,856240.15
+2,Month 2,Data Drift (Feature Shift),2604.7,4,4,Downtown,4.0,832259.07
+2,Month 2,Data Drift (Feature Shift),3128.1,4,3,Downtown,12.2,909423.58
+2,Month 2,Data Drift (Feature Shift),2798.8,3,3,Suburban,23.5,723860.15
+2,Month 2,Data Drift (Feature Shift),2606.7,4,4,Rural,13.5,695949.32
+2,Month 2,Data Drift (Feature Shift),2593.4,4,4,Downtown,10.6,820851.71
+2,Month 2,Data Drift (Feature Shift),2122.8,4,3,Downtown,12.9,708126.94
+2,Month 2,Data Drift (Feature Shift),2853.5,4,3,Downtown,18.5,832229.17
+2,Month 2,Data Drift (Feature Shift),2579.9,4,3,Suburban,30.0,728355.94
+2,Month 2,Data Drift (Feature Shift),2349.0,4,3,Downtown,15.3,751812.02
+2,Month 2,Data Drift (Feature Shift),3153.2,4,3,Downtown,7.0,865525.89
+2,Month 2,Data Drift (Feature Shift),1974.9,4,3,Downtown,5.7,683169.31
+2,Month 2,Data Drift (Feature Shift),2388.8,3,2,Urban,2.2,638595.07
+2,Month 2,Data Drift (Feature Shift),3113.9,3,3,Urban,17.2,801052.15
+2,Month 2,Data Drift (Feature Shift),2757.8,1,1,Rural,16.8,549326.75
+2,Month 2,Data Drift (Feature Shift),2576.1,4,4,Downtown,7.0,810091.52
+2,Month 2,Data Drift (Feature Shift),2725.5,4,4,Suburban,21.2,730870.98
+2,Month 2,Data Drift (Feature Shift),2689.7,5,5,Suburban,22.5,801719.83
+2,Month 2,Data Drift (Feature Shift),1841.7,3,2,Downtown,8.5,614934.88
+2,Month 2,Data Drift (Feature Shift),2425.4,3,3,Suburban,11.0,666907.24
+2,Month 2,Data Drift (Feature Shift),3408.3,3,2,Downtown,29.7,864181.33
+2,Month 2,Data Drift (Feature Shift),2270.3,2,2,Downtown,11.9,643355.64
+2,Month 2,Data Drift (Feature Shift),2440.8,4,3,Downtown,23.1,761481.91
+2,Month 2,Data Drift (Feature Shift),2329.2,3,2,Urban,14.1,672899.61
+2,Month 2,Data Drift (Feature Shift),2556.5,4,3,Rural,24.0,664116.66
+2,Month 2,Data Drift (Feature Shift),2308.4,4,3,Suburban,23.3,643956.04
+2,Month 2,Data Drift (Feature Shift),2843.4,3,2,Downtown,20.4,755767.46
+2,Month 2,Data Drift (Feature Shift),2698.7,5,5,Suburban,25.8,780276.49
+2,Month 2,Data Drift (Feature Shift),2986.8,3,2,Downtown,28.2,800419.94
+2,Month 2,Data Drift (Feature Shift),2074.5,3,2,Rural,17.8,546537.95
+2,Month 2,Data Drift (Feature Shift),2429.8,5,4,Downtown,7.9,822457.94
+2,Month 2,Data Drift (Feature Shift),2487.1,5,5,Downtown,12.6,863431.32
+2,Month 2,Data Drift (Feature Shift),2827.8,3,3,Downtown,23.0,810194.33
+2,Month 2,Data Drift (Feature Shift),2203.4,2,1,Downtown,19.9,623327.98
+2,Month 2,Data Drift (Feature Shift),3057.8,2,1,Downtown,6.2,770470.84
+2,Month 2,Data Drift (Feature Shift),3193.2,3,3,Rural,2.5,773685.68
+2,Month 2,Data Drift (Feature Shift),2105.6,5,5,Urban,20.8,712861.53
+2,Month 2,Data Drift (Feature Shift),2354.6,4,3,Rural,8.3,640200.64
+2,Month 2,Data Drift (Feature Shift),2334.0,3,2,Suburban,15.5,618379.47
+2,Month 2,Data Drift (Feature Shift),3916.2,5,5,Urban,22.7,1065594.33
+2,Month 2,Data Drift (Feature Shift),2385.0,3,3,Suburban,17.3,628688.69
+2,Month 2,Data Drift (Feature Shift),3438.8,3,3,Urban,3.4,885257.49
+2,Month 2,Data Drift (Feature Shift),1966.7,5,5,Downtown,6.4,789368.24
+2,Month 2,Data Drift (Feature Shift),2105.2,4,4,Downtown,7.4,751691.69
+2,Month 2,Data Drift (Feature Shift),2256.7,4,3,Downtown,8.5,750090.42
+2,Month 2,Data Drift (Feature Shift),2177.2,4,3,Downtown,17.4,722681.24
+2,Month 2,Data Drift (Feature Shift),2466.1,4,4,Downtown,15.6,813857.37
+2,Month 2,Data Drift (Feature Shift),2245.6,3,3,Downtown,6.9,699088.93
+2,Month 2,Data Drift (Feature Shift),2190.3,4,3,Urban,3.0,661263.71
+2,Month 2,Data Drift (Feature Shift),3179.2,5,5,Downtown,6.0,979702.6
+2,Month 2,Data Drift (Feature Shift),3211.9,3,2,Downtown,29.5,799162.75
+2,Month 2,Data Drift (Feature Shift),3074.6,4,3,Downtown,14.6,892476.48
+2,Month 2,Data Drift (Feature Shift),2862.0,3,2,Downtown,26.2,792392.31
+2,Month 2,Data Drift (Feature Shift),2646.4,2,2,Downtown,25.6,708439.56
+2,Month 2,Data Drift (Feature Shift),2351.5,4,4,Urban,15.8,718530.78
+2,Month 2,Data Drift (Feature Shift),2123.4,3,2,Urban,21.5,598870.17
+2,Month 2,Data Drift (Feature Shift),2781.5,4,3,Downtown,6.6,832293.64
+2,Month 2,Data Drift (Feature Shift),2013.2,2,1,Downtown,21.0,583155.09
+2,Month 2,Data Drift (Feature Shift),2103.0,5,5,Downtown,8.9,796616.33
+2,Month 2,Data Drift (Feature Shift),3176.5,3,3,Urban,25.1,805647.73
+2,Month 2,Data Drift (Feature Shift),3550.3,3,3,Urban,3.4,911683.89
+2,Month 2,Data Drift (Feature Shift),2796.6,2,1,Downtown,23.4,722339.42
+2,Month 2,Data Drift (Feature Shift),3153.2,5,4,Downtown,3.9,940422.56
+2,Month 2,Data Drift (Feature Shift),2477.1,4,3,Downtown,26.6,776305.03
+2,Month 2,Data Drift (Feature Shift),1931.2,4,3,Urban,9.8,608775.53
+2,Month 2,Data Drift (Feature Shift),2906.1,3,2,Urban,20.0,737207.38
+2,Month 2,Data Drift (Feature Shift),2884.6,3,2,Downtown,15.1,804665.25
+2,Month 2,Data Drift (Feature Shift),2635.8,2,2,Suburban,11.6,637639.83
+2,Month 2,Data Drift (Feature Shift),2478.8,4,3,Downtown,19.7,768745.89
+2,Month 2,Data Drift (Feature Shift),3081.1,3,3,Downtown,28.5,846017.54
+2,Month 2,Data Drift (Feature Shift),2107.1,5,4,Suburban,2.2,675424.0
+2,Month 2,Data Drift (Feature Shift),2213.1,4,3,Downtown,27.6,707795.63
+2,Month 2,Data Drift (Feature Shift),2095.9,3,3,Downtown,18.7,673913.42
+2,Month 2,Data Drift (Feature Shift),2642.5,3,2,Suburban,24.4,649305.74
+2,Month 2,Data Drift (Feature Shift),2056.1,4,3,Urban,12.1,682988.87
+2,Month 2,Data Drift (Feature Shift),2257.9,2,2,Downtown,14.7,647530.42
+2,Month 2,Data Drift (Feature Shift),2247.1,3,3,Downtown,26.2,709504.0
+2,Month 2,Data Drift (Feature Shift),2469.7,3,3,Downtown,13.0,741971.11
+2,Month 2,Data Drift (Feature Shift),1856.3,4,4,Downtown,16.5,670399.55
+2,Month 2,Data Drift (Feature Shift),2643.6,4,3,Downtown,1.6,814428.43
+2,Month 2,Data Drift (Feature Shift),3223.7,3,3,Downtown,5.6,897716.19
+2,Month 2,Data Drift (Feature Shift),2667.7,2,2,Downtown,19.6,739093.34
+2,Month 2,Data Drift (Feature Shift),3370.7,3,3,Downtown,21.8,919328.01
+2,Month 2,Data Drift (Feature Shift),3267.0,4,3,Urban,17.9,898218.57
+2,Month 2,Data Drift (Feature Shift),2988.9,3,3,Downtown,5.2,851137.94
+2,Month 2,Data Drift (Feature Shift),2637.3,3,3,Downtown,13.9,766280.2
+2,Month 2,Data Drift (Feature Shift),2611.3,5,4,Downtown,11.3,853334.38
+2,Month 2,Data Drift (Feature Shift),2981.9,5,5,Downtown,15.4,930927.69
+2,Month 2,Data Drift (Feature Shift),2404.2,5,5,Suburban,26.2,755754.82
+2,Month 2,Data Drift (Feature Shift),1658.7,4,3,Downtown,23.5,596971.99
+2,Month 2,Data Drift (Feature Shift),2846.0,3,3,Urban,3.4,809796.11
+2,Month 2,Data Drift (Feature Shift),2034.5,3,2,Downtown,26.8,641371.35
+2,Month 2,Data Drift (Feature Shift),2118.9,3,2,Downtown,14.7,631403.21
+2,Month 2,Data Drift (Feature Shift),2600.1,3,2,Downtown,22.6,721554.96
+2,Month 2,Data Drift (Feature Shift),2552.4,5,4,Downtown,5.1,855350.54
+2,Month 2,Data Drift (Feature Shift),1894.0,4,3,Downtown,20.5,678592.59
+2,Month 2,Data Drift (Feature Shift),2682.7,4,4,Suburban,7.9,741758.15
+2,Month 2,Data Drift (Feature Shift),3083.1,3,2,Rural,13.7,722148.26
+2,Month 2,Data Drift (Feature Shift),2035.8,5,5,Downtown,1.5,755422.09
+2,Month 2,Data Drift (Feature Shift),3236.2,4,4,Downtown,5.4,939065.87
+2,Month 2,Data Drift (Feature Shift),1819.9,3,2,Urban,3.7,583128.39
+2,Month 2,Data Drift (Feature Shift),3658.7,5,4,Downtown,8.0,1025245.29
+2,Month 2,Data Drift (Feature Shift),2394.4,3,3,Suburban,3.9,642120.3
+2,Month 2,Data Drift (Feature Shift),2672.8,2,2,Downtown,21.1,726762.78
+2,Month 2,Data Drift (Feature Shift),1654.0,4,3,Suburban,1.8,550349.91
+2,Month 2,Data Drift (Feature Shift),2568.9,4,3,Downtown,18.9,790200.55
+2,Month 2,Data Drift (Feature Shift),2714.2,2,2,Downtown,5.1,736123.71
+2,Month 2,Data Drift (Feature Shift),2556.9,3,3,Urban,28.4,684620.61
+2,Month 2,Data Drift (Feature Shift),2318.5,5,4,Downtown,28.1,746549.67
+2,Month 2,Data Drift (Feature Shift),2126.7,4,3,Downtown,7.5,718431.23
+2,Month 2,Data Drift (Feature Shift),3165.3,4,3,Suburban,18.8,802807.47
+2,Month 2,Data Drift (Feature Shift),2615.4,3,3,Downtown,1.8,767876.48
+2,Month 2,Data Drift (Feature Shift),3370.4,2,2,Suburban,28.0,761898.76
+2,Month 2,Data Drift (Feature Shift),2336.8,3,3,Suburban,16.2,656555.55
+2,Month 2,Data Drift (Feature Shift),2382.6,3,2,Suburban,2.3,633243.13
+2,Month 2,Data Drift (Feature Shift),3007.8,3,3,Downtown,10.9,848361.25
+2,Month 2,Data Drift (Feature Shift),1788.5,3,3,Downtown,3.2,643537.86
+2,Month 2,Data Drift (Feature Shift),1993.3,4,3,Downtown,12.4,669122.08
+2,Month 2,Data Drift (Feature Shift),3148.7,3,3,Downtown,20.4,889408.07
+2,Month 2,Data Drift (Feature Shift),2014.0,4,3,Suburban,14.6,601303.55
+2,Month 2,Data Drift (Feature Shift),1690.5,3,3,Downtown,12.1,622334.04
+2,Month 2,Data Drift (Feature Shift),3534.3,3,2,Suburban,4.5,847133.25
+2,Month 2,Data Drift (Feature Shift),1903.1,1,1,Downtown,8.1,552033.47
+2,Month 2,Data Drift (Feature Shift),2692.1,3,3,Suburban,3.9,725917.8
+2,Month 2,Data Drift (Feature Shift),2634.5,2,1,Urban,24.4,639873.03
+2,Month 2,Data Drift (Feature Shift),1194.7,5,4,Downtown,4.9,584391.28
+2,Month 2,Data Drift (Feature Shift),2466.3,4,3,Rural,18.3,643533.26
+2,Month 2,Data Drift (Feature Shift),2824.2,3,3,Urban,10.9,753014.48
+2,Month 2,Data Drift (Feature Shift),2777.2,2,1,Downtown,7.6,722767.18
+2,Month 2,Data Drift (Feature Shift),3051.8,4,3,Suburban,19.5,764998.97
+2,Month 2,Data Drift (Feature Shift),2406.3,4,3,Downtown,14.3,774312.64
+2,Month 2,Data Drift (Feature Shift),2956.3,3,2,Downtown,12.6,829509.39
+2,Month 2,Data Drift (Feature Shift),2255.3,4,3,Suburban,18.2,661341.77
+2,Month 2,Data Drift (Feature Shift),1894.8,4,3,Urban,15.2,635870.6
+2,Month 2,Data Drift (Feature Shift),1951.1,4,3,Suburban,9.8,597498.1
+2,Month 2,Data Drift (Feature Shift),1868.9,4,3,Urban,17.2,600587.43
+2,Month 2,Data Drift (Feature Shift),3104.8,5,4,Suburban,20.4,831202.96
+2,Month 2,Data Drift (Feature Shift),1842.7,5,5,Downtown,1.8,760184.28
+2,Month 2,Data Drift (Feature Shift),2737.0,3,3,Rural,14.5,681423.04
+2,Month 2,Data Drift (Feature Shift),2467.0,4,4,Suburban,2.7,727633.21
+2,Month 2,Data Drift (Feature Shift),2548.7,4,4,Downtown,6.4,838399.15
+2,Month 2,Data Drift (Feature Shift),3281.8,4,4,Downtown,17.3,941409.53
+2,Month 2,Data Drift (Feature Shift),2380.8,5,5,Downtown,26.1,805326.31
+2,Month 2,Data Drift (Feature Shift),2905.8,1,1,Downtown,26.6,699040.0
+2,Month 2,Data Drift (Feature Shift),2618.8,3,2,Downtown,3.0,767185.48
+2,Month 2,Data Drift (Feature Shift),2524.0,3,3,Downtown,13.2,772854.89
+2,Month 2,Data Drift (Feature Shift),3750.0,3,3,Urban,17.9,924824.6
+2,Month 2,Data Drift (Feature Shift),1879.3,3,3,Suburban,5.3,601544.4
+2,Month 2,Data Drift (Feature Shift),3244.6,4,4,Downtown,23.2,946806.86
+2,Month 2,Data Drift (Feature Shift),2928.2,2,2,Suburban,22.6,694210.01
+2,Month 2,Data Drift (Feature Shift),2360.2,4,4,Downtown,27.2,750546.27
+2,Month 2,Data Drift (Feature Shift),3414.7,4,3,Urban,1.2,878544.85
+2,Month 2,Data Drift (Feature Shift),1675.9,3,3,Downtown,7.3,609467.41
+2,Month 2,Data Drift (Feature Shift),2339.1,3,2,Suburban,25.0,615156.36
+2,Month 2,Data Drift (Feature Shift),1995.8,4,3,Downtown,20.4,706166.01
+2,Month 2,Data Drift (Feature Shift),2806.0,4,3,Downtown,26.9,819687.97
+2,Month 2,Data Drift (Feature Shift),2043.5,5,4,Suburban,2.7,694213.7
+2,Month 2,Data Drift (Feature Shift),2816.5,4,3,Urban,18.3,771070.33
+2,Month 2,Data Drift (Feature Shift),2506.8,5,4,Downtown,17.5,830775.76
+2,Month 2,Data Drift (Feature Shift),2360.3,4,3,Suburban,2.0,695168.87
+2,Month 2,Data Drift (Feature Shift),2794.3,5,4,Urban,15.9,793831.37
+2,Month 2,Data Drift (Feature Shift),2465.7,4,4,Urban,18.7,734750.33
+2,Month 2,Data Drift (Feature Shift),2055.7,5,4,Downtown,6.5,768787.7
+2,Month 2,Data Drift (Feature Shift),4000.7,1,1,Downtown,8.9,924417.95
+2,Month 2,Data Drift (Feature Shift),2356.4,5,5,Downtown,19.6,802898.07
+2,Month 2,Data Drift (Feature Shift),1491.2,3,3,Downtown,14.6,538468.57
+2,Month 2,Data Drift (Feature Shift),2179.0,4,3,Downtown,25.9,699359.02
+2,Month 2,Data Drift (Feature Shift),1966.4,2,1,Downtown,10.9,583017.53
+2,Month 2,Data Drift (Feature Shift),3013.1,3,2,Rural,8.7,691422.45
+2,Month 2,Data Drift (Feature Shift),2760.8,3,2,Suburban,29.6,674773.66
+2,Month 2,Data Drift (Feature Shift),2799.4,3,2,Suburban,27.4,689317.94
+2,Month 2,Data Drift (Feature Shift),2415.0,2,2,Downtown,1.8,710658.47
+3,Month 3,Concept Drift (Relationship Shift),860.5,2,2,Downtown,3.2,650063.44
+3,Month 3,Concept Drift (Relationship Shift),1298.0,1,2,Suburban,14.2,530075.24
+3,Month 3,Concept Drift (Relationship Shift),1722.1,2,2,Suburban,6.0,698574.54
+3,Month 3,Concept Drift (Relationship Shift),2090.3,2,2,Urban,8.8,839063.22
+3,Month 3,Concept Drift (Relationship Shift),2055.5,3,2,Rural,22.0,759009.86
+3,Month 3,Concept Drift (Relationship Shift),2048.2,3,3,Suburban,3.3,853593.42
+3,Month 3,Concept Drift (Relationship Shift),1689.0,3,3,Downtown,16.8,845900.16
+3,Month 3,Concept Drift (Relationship Shift),1712.4,3,2,Urban,21.7,779669.58
+3,Month 3,Concept Drift (Relationship Shift),1544.1,3,2,Urban,15.3,745536.65
+3,Month 3,Concept Drift (Relationship Shift),2172.6,4,3,Rural,1.7,903674.32
+3,Month 3,Concept Drift (Relationship Shift),1463.4,3,2,Downtown,34.5,771052.98
+3,Month 3,Concept Drift (Relationship Shift),2207.0,5,4,Rural,13.5,924305.34
+3,Month 3,Concept Drift (Relationship Shift),1937.3,3,3,Suburban,27.5,767107.57
+3,Month 3,Concept Drift (Relationship Shift),1831.1,3,2,Urban,12.1,804828.54
+3,Month 3,Concept Drift (Relationship Shift),1574.2,1,1,Urban,17.2,662044.96
+3,Month 3,Concept Drift (Relationship Shift),1280.7,3,2,Suburban,14.2,614790.07
+3,Month 3,Concept Drift (Relationship Shift),1578.0,4,3,Urban,12.6,850961.4
+3,Month 3,Concept Drift (Relationship Shift),1711.4,4,4,Suburban,1.7,840836.21
+3,Month 3,Concept Drift (Relationship Shift),855.0,5,4,Suburban,13.2,654805.74
+3,Month 3,Concept Drift (Relationship Shift),1767.1,2,2,Suburban,31.2,679247.73
+3,Month 3,Concept Drift (Relationship Shift),2238.2,3,3,Downtown,24.5,1028148.79
+3,Month 3,Concept Drift (Relationship Shift),2088.2,3,2,Rural,5.9,748674.62
+3,Month 3,Concept Drift (Relationship Shift),1641.6,3,2,Urban,21.1,768005.53
+3,Month 3,Concept Drift (Relationship Shift),1869.7,2,1,Urban,31.3,751399.34
+3,Month 3,Concept Drift (Relationship Shift),1616.4,4,3,Suburban,24.8,791729.04
+3,Month 3,Concept Drift (Relationship Shift),1912.5,4,3,Rural,6.1,787916.22
+3,Month 3,Concept Drift (Relationship Shift),2496.8,3,3,Urban,30.5,1000696.4
+3,Month 3,Concept Drift (Relationship Shift),2256.8,2,1,Downtown,11.3,946339.08
+3,Month 3,Concept Drift (Relationship Shift),2068.7,2,1,Downtown,16.4,892993.6
+3,Month 3,Concept Drift (Relationship Shift),1643.0,3,3,Suburban,18.9,733060.61
+3,Month 3,Concept Drift (Relationship Shift),2165.0,2,1,Urban,29.9,770254.08
+3,Month 3,Concept Drift (Relationship Shift),1141.5,4,3,Rural,32.7,598483.48
+3,Month 3,Concept Drift (Relationship Shift),1744.0,3,2,Suburban,32.6,724171.33
+3,Month 3,Concept Drift (Relationship Shift),2095.2,3,2,Urban,1.3,874573.27
+3,Month 3,Concept Drift (Relationship Shift),2161.0,3,3,Rural,32.3,831119.88
+3,Month 3,Concept Drift (Relationship Shift),2131.4,1,1,Suburban,2.8,750749.99
+3,Month 3,Concept Drift (Relationship Shift),1973.8,4,4,Rural,10.0,830682.67
+3,Month 3,Concept Drift (Relationship Shift),1767.8,3,2,Rural,18.5,659375.07
+3,Month 3,Concept Drift (Relationship Shift),2075.9,5,4,Downtown,17.3,1063812.16
+3,Month 3,Concept Drift (Relationship Shift),1449.8,3,2,Suburban,21.6,705275.71
+3,Month 3,Concept Drift (Relationship Shift),1495.2,3,2,Suburban,17.3,689977.93
+3,Month 3,Concept Drift (Relationship Shift),1875.9,1,1,Suburban,32.8,667162.14
+3,Month 3,Concept Drift (Relationship Shift),1922.7,3,2,Downtown,9.2,917072.93
+3,Month 3,Concept Drift (Relationship Shift),1083.2,4,2,Downtown,10.3,735103.86
+3,Month 3,Concept Drift (Relationship Shift),2041.2,4,3,Urban,32.3,933455.83
+3,Month 3,Concept Drift (Relationship Shift),2174.5,4,2,Suburban,3.6,878918.44
+3,Month 3,Concept Drift (Relationship Shift),1817.5,2,1,Suburban,21.7,698389.56
+3,Month 3,Concept Drift (Relationship Shift),2847.3,5,4,Downtown,24.2,1265204.04
+3,Month 3,Concept Drift (Relationship Shift),1563.2,5,4,Downtown,18.2,990163.9
+3,Month 3,Concept Drift (Relationship Shift),1698.3,1,1,Rural,24.6,589263.93
+3,Month 3,Concept Drift (Relationship Shift),1684.1,4,4,Downtown,6.9,986939.07
+3,Month 3,Concept Drift (Relationship Shift),1818.0,2,2,Downtown,30.0,836989.33
+3,Month 3,Concept Drift (Relationship Shift),1711.9,3,3,Downtown,5.8,925421.65
+3,Month 3,Concept Drift (Relationship Shift),1259.1,2,1,Urban,14.6,593456.4
+3,Month 3,Concept Drift (Relationship Shift),1620.4,5,4,Urban,3.6,898246.05
+3,Month 3,Concept Drift (Relationship Shift),1809.0,2,1,Rural,19.5,667050.94
+3,Month 3,Concept Drift (Relationship Shift),2366.0,3,3,Urban,23.8,951713.03
+3,Month 3,Concept Drift (Relationship Shift),2774.9,3,2,Suburban,33.0,987992.77
+3,Month 3,Concept Drift (Relationship Shift),2410.9,2,1,Suburban,26.1,840698.91
+3,Month 3,Concept Drift (Relationship Shift),1524.3,3,2,Suburban,19.4,691927.28
+3,Month 3,Concept Drift (Relationship Shift),1557.8,2,2,Urban,32.7,687158.69
+3,Month 3,Concept Drift (Relationship Shift),1783.1,3,2,Suburban,17.3,786509.77
+3,Month 3,Concept Drift (Relationship Shift),2599.5,5,3,Suburban,20.1,1023505.12
+3,Month 3,Concept Drift (Relationship Shift),1780.5,4,3,Urban,21.3,882376.53
+3,Month 3,Concept Drift (Relationship Shift),1292.4,4,3,Suburban,14.9,716031.45
+3,Month 3,Concept Drift (Relationship Shift),1639.5,3,1,Downtown,29.5,831485.67
+3,Month 3,Concept Drift (Relationship Shift),2168.0,2,2,Urban,7.3,839566.01
+3,Month 3,Concept Drift (Relationship Shift),2139.8,3,2,Urban,19.9,865413.05
+3,Month 3,Concept Drift (Relationship Shift),1765.9,1,1,Suburban,25.6,668887.48
+3,Month 3,Concept Drift (Relationship Shift),2137.0,4,3,Suburban,31.7,858083.68
+3,Month 3,Concept Drift (Relationship Shift),895.3,2,1,Urban,31.1,466058.08
+3,Month 3,Concept Drift (Relationship Shift),1893.6,4,3,Downtown,18.3,962974.79
+3,Month 3,Concept Drift (Relationship Shift),2211.5,1,1,Downtown,22.9,889033.87
+3,Month 3,Concept Drift (Relationship Shift),1500.2,4,3,Suburban,14.4,775186.14
+3,Month 3,Concept Drift (Relationship Shift),1498.7,2,1,Urban,16.9,653815.23
+3,Month 3,Concept Drift (Relationship Shift),1066.1,1,1,Suburban,31.8,451124.21
+3,Month 3,Concept Drift (Relationship Shift),2517.8,3,2,Rural,32.6,875928.91
+3,Month 3,Concept Drift (Relationship Shift),1547.5,2,1,Rural,31.4,571181.31
+3,Month 3,Concept Drift (Relationship Shift),1951.2,3,2,Urban,5.7,853188.17
+3,Month 3,Concept Drift (Relationship Shift),2103.6,3,2,Urban,29.9,860785.25
+3,Month 3,Concept Drift (Relationship Shift),2485.1,2,2,Downtown,33.2,976480.09
+3,Month 3,Concept Drift (Relationship Shift),1785.4,4,3,Downtown,13.3,932197.65
+3,Month 3,Concept Drift (Relationship Shift),1623.4,3,2,Urban,18.6,778517.57
+3,Month 3,Concept Drift (Relationship Shift),1922.7,3,2,Rural,27.5,729047.95
+3,Month 3,Concept Drift (Relationship Shift),2389.3,3,2,Urban,20.1,937434.51
+3,Month 3,Concept Drift (Relationship Shift),1778.5,3,2,Urban,34.8,798936.17
+3,Month 3,Concept Drift (Relationship Shift),1449.0,2,2,Downtown,16.5,745701.24
+3,Month 3,Concept Drift (Relationship Shift),1202.9,2,2,Urban,25.3,608444.92
+3,Month 3,Concept Drift (Relationship Shift),1337.1,3,2,Downtown,27.9,761384.95
+3,Month 3,Concept Drift (Relationship Shift),2213.0,3,2,Suburban,17.8,848076.78
+3,Month 3,Concept Drift (Relationship Shift),1715.3,3,3,Suburban,30.1,759538.2
+3,Month 3,Concept Drift (Relationship Shift),1594.8,3,2,Suburban,19.6,696676.41
+3,Month 3,Concept Drift (Relationship Shift),1549.3,3,2,Urban,15.0,712138.37
+3,Month 3,Concept Drift (Relationship Shift),1885.7,1,1,Urban,4.7,736963.61
+3,Month 3,Concept Drift (Relationship Shift),1749.4,2,1,Rural,14.4,602946.03
+3,Month 3,Concept Drift (Relationship Shift),1735.3,3,3,Urban,26.0,814039.13
+3,Month 3,Concept Drift (Relationship Shift),2416.7,1,1,Downtown,32.3,954054.47
+3,Month 3,Concept Drift (Relationship Shift),2496.0,2,2,Suburban,9.6,898287.61
+3,Month 3,Concept Drift (Relationship Shift),1173.8,1,1,Downtown,13.1,612898.62
+3,Month 3,Concept Drift (Relationship Shift),1987.6,5,4,Urban,6.2,983623.72
+3,Month 3,Concept Drift (Relationship Shift),1523.7,3,2,Urban,24.5,708366.34
+3,Month 3,Concept Drift (Relationship Shift),1745.7,1,1,Suburban,33.6,641217.67
+3,Month 3,Concept Drift (Relationship Shift),1979.9,1,1,Urban,22.8,740076.53
+3,Month 3,Concept Drift (Relationship Shift),1760.7,3,3,Urban,22.0,851355.67
+3,Month 3,Concept Drift (Relationship Shift),1946.8,3,2,Urban,19.8,853777.17
+3,Month 3,Concept Drift (Relationship Shift),2132.6,4,3,Rural,4.0,860200.43
+3,Month 3,Concept Drift (Relationship Shift),1973.7,4,3,Rural,25.8,818669.02
+3,Month 3,Concept Drift (Relationship Shift),1578.3,3,2,Rural,21.5,637328.19
+3,Month 3,Concept Drift (Relationship Shift),1585.7,2,1,Urban,23.5,674253.1
+3,Month 3,Concept Drift (Relationship Shift),1245.3,4,4,Rural,31.6,648577.47
+3,Month 3,Concept Drift (Relationship Shift),1491.4,5,3,Downtown,27.7,907510.84
+3,Month 3,Concept Drift (Relationship Shift),2674.1,3,3,Suburban,27.6,1025270.07
+3,Month 3,Concept Drift (Relationship Shift),1517.4,3,2,Urban,32.5,729695.89
+3,Month 3,Concept Drift (Relationship Shift),1348.8,2,2,Suburban,34.7,613063.85
+3,Month 3,Concept Drift (Relationship Shift),1984.4,3,3,Suburban,20.8,849096.14
+3,Month 3,Concept Drift (Relationship Shift),1803.6,3,3,Suburban,4.7,810072.73
+3,Month 3,Concept Drift (Relationship Shift),1767.9,4,3,Suburban,16.6,791167.23
+3,Month 3,Concept Drift (Relationship Shift),2441.8,3,3,Downtown,27.8,1101844.56
+3,Month 3,Concept Drift (Relationship Shift),2080.6,4,3,Urban,1.9,979083.57
+3,Month 3,Concept Drift (Relationship Shift),1627.4,2,2,Suburban,2.9,687293.57
+3,Month 3,Concept Drift (Relationship Shift),1671.7,2,2,Downtown,3.3,825630.77
+3,Month 3,Concept Drift (Relationship Shift),1638.9,3,2,Downtown,25.9,847067.65
+3,Month 3,Concept Drift (Relationship Shift),2217.4,2,1,Rural,18.0,750830.56
+3,Month 3,Concept Drift (Relationship Shift),1720.6,3,2,Urban,13.5,777675.45
+3,Month 3,Concept Drift (Relationship Shift),1096.9,2,1,Urban,4.6,544045.64
+3,Month 3,Concept Drift (Relationship Shift),1829.7,4,4,Suburban,25.9,861212.12
+3,Month 3,Concept Drift (Relationship Shift),1204.4,4,3,Suburban,11.9,684506.39
+3,Month 3,Concept Drift (Relationship Shift),2767.4,3,3,Suburban,10.0,1049892.18
+3,Month 3,Concept Drift (Relationship Shift),1444.4,2,2,Urban,23.2,680849.06
+3,Month 3,Concept Drift (Relationship Shift),1782.0,3,2,Rural,20.0,691619.03
+3,Month 3,Concept Drift (Relationship Shift),1958.4,5,3,Suburban,13.3,909845.75
+3,Month 3,Concept Drift (Relationship Shift),1728.8,3,2,Suburban,22.8,732127.71
+3,Month 3,Concept Drift (Relationship Shift),1728.2,1,1,Suburban,10.2,636500.97
+3,Month 3,Concept Drift (Relationship Shift),2027.2,1,1,Downtown,28.0,832120.72
+3,Month 3,Concept Drift (Relationship Shift),2491.0,2,1,Suburban,8.8,835287.76
+3,Month 3,Concept Drift (Relationship Shift),2172.4,2,1,Urban,6.4,830687.72
+3,Month 3,Concept Drift (Relationship Shift),2471.0,4,4,Suburban,27.6,1027053.46
+3,Month 3,Concept Drift (Relationship Shift),1410.4,4,3,Urban,25.1,766666.42
+3,Month 3,Concept Drift (Relationship Shift),1983.3,2,2,Suburban,7.2,804427.25
+3,Month 3,Concept Drift (Relationship Shift),1915.2,2,2,Urban,5.0,802105.4
+3,Month 3,Concept Drift (Relationship Shift),1997.5,2,2,Suburban,29.5,771531.77
+3,Month 3,Concept Drift (Relationship Shift),2428.0,4,4,Downtown,27.4,1148350.2
+3,Month 3,Concept Drift (Relationship Shift),1757.3,3,2,Urban,12.1,833787.16
+3,Month 3,Concept Drift (Relationship Shift),1679.7,3,2,Downtown,23.4,850824.96
+3,Month 3,Concept Drift (Relationship Shift),2074.3,3,3,Urban,5.2,893595.46
+3,Month 3,Concept Drift (Relationship Shift),1103.2,3,2,Suburban,18.2,593459.73
+3,Month 3,Concept Drift (Relationship Shift),1750.5,3,3,Suburban,1.6,822904.16
+3,Month 3,Concept Drift (Relationship Shift),1793.6,2,2,Urban,14.3,763151.79
+3,Month 3,Concept Drift (Relationship Shift),1463.4,3,2,Urban,3.5,740166.09
+3,Month 3,Concept Drift (Relationship Shift),2294.0,3,3,Urban,17.2,979884.3
+3,Month 3,Concept Drift (Relationship Shift),1403.9,2,2,Downtown,15.3,774002.21
+3,Month 3,Concept Drift (Relationship Shift),1792.9,2,2,Downtown,16.1,854606.11
+3,Month 3,Concept Drift (Relationship Shift),1973.1,3,2,Downtown,2.5,925675.97
+3,Month 3,Concept Drift (Relationship Shift),2418.4,3,2,Suburban,13.3,909513.42
+3,Month 3,Concept Drift (Relationship Shift),1845.6,3,2,Urban,26.7,810270.02
+3,Month 3,Concept Drift (Relationship Shift),2243.2,4,3,Suburban,13.5,949309.66
+3,Month 3,Concept Drift (Relationship Shift),2144.3,1,1,Urban,25.3,787820.85
+3,Month 3,Concept Drift (Relationship Shift),1901.9,2,2,Suburban,13.6,744774.88
+3,Month 3,Concept Drift (Relationship Shift),1392.4,2,1,Suburban,15.4,596785.81
+3,Month 3,Concept Drift (Relationship Shift),1247.5,3,2,Rural,20.2,578212.68
+3,Month 3,Concept Drift (Relationship Shift),1894.7,3,3,Urban,33.3,851857.5
+3,Month 3,Concept Drift (Relationship Shift),1622.1,3,3,Suburban,4.7,739704.46
+3,Month 3,Concept Drift (Relationship Shift),2236.1,2,2,Suburban,2.1,841061.85
+3,Month 3,Concept Drift (Relationship Shift),2163.3,3,2,Urban,21.7,902539.27
+3,Month 3,Concept Drift (Relationship Shift),1772.5,4,3,Rural,33.3,724606.08
+3,Month 3,Concept Drift (Relationship Shift),1363.8,4,4,Urban,34.7,739542.47
+3,Month 3,Concept Drift (Relationship Shift),2064.5,5,4,Rural,17.5,928303.46
+3,Month 3,Concept Drift (Relationship Shift),1422.5,4,2,Suburban,16.9,698288.96
+3,Month 3,Concept Drift (Relationship Shift),1531.4,4,3,Urban,22.9,803439.41
+3,Month 3,Concept Drift (Relationship Shift),1438.6,2,2,Downtown,19.9,741365.38
+3,Month 3,Concept Drift (Relationship Shift),1791.8,2,1,Urban,22.6,739185.7
+3,Month 3,Concept Drift (Relationship Shift),2341.5,1,1,Suburban,30.7,786751.89
+3,Month 3,Concept Drift (Relationship Shift),1847.9,3,2,Urban,26.4,774353.28
+3,Month 3,Concept Drift (Relationship Shift),1663.8,4,4,Urban,17.9,891284.07
+3,Month 3,Concept Drift (Relationship Shift),1209.2,2,2,Downtown,16.7,708804.02
+3,Month 3,Concept Drift (Relationship Shift),2081.9,3,3,Downtown,22.7,978146.4
+3,Month 3,Concept Drift (Relationship Shift),1522.2,3,1,Downtown,16.5,771558.49
+3,Month 3,Concept Drift (Relationship Shift),1899.4,4,3,Urban,16.6,853313.76
+3,Month 3,Concept Drift (Relationship Shift),1701.2,3,3,Suburban,1.6,787743.58
+3,Month 3,Concept Drift (Relationship Shift),2202.0,5,4,Urban,6.9,1043687.49
+3,Month 3,Concept Drift (Relationship Shift),1784.0,2,1,Downtown,17.6,809409.17
+3,Month 3,Concept Drift (Relationship Shift),1825.3,2,1,Rural,29.0,657149.29
+3,Month 3,Concept Drift (Relationship Shift),2054.0,3,2,Suburban,10.5,797212.61
+3,Month 3,Concept Drift (Relationship Shift),2734.9,3,1,Urban,18.8,983970.91
+3,Month 3,Concept Drift (Relationship Shift),2223.1,1,1,Suburban,12.7,751303.81
+3,Month 3,Concept Drift (Relationship Shift),1812.8,3,2,Suburban,4.6,761527.38
+3,Month 3,Concept Drift (Relationship Shift),1851.3,4,4,Urban,33.6,901184.53
+3,Month 3,Concept Drift (Relationship Shift),1629.6,3,2,Urban,30.1,753082.87
+3,Month 3,Concept Drift (Relationship Shift),1451.0,2,2,Suburban,3.7,640569.94
+3,Month 3,Concept Drift (Relationship Shift),1617.8,3,2,Downtown,25.5,815290.55
+3,Month 3,Concept Drift (Relationship Shift),1525.7,3,2,Downtown,12.8,848518.31
+3,Month 3,Concept Drift (Relationship Shift),2124.4,1,1,Rural,34.8,717653.29
+3,Month 3,Concept Drift (Relationship Shift),1400.1,3,2,Suburban,11.3,660578.46
+3,Month 3,Concept Drift (Relationship Shift),2409.9,2,1,Urban,9.1,877571.38
+3,Month 3,Concept Drift (Relationship Shift),2165.9,1,1,Urban,20.3,817776.42
+3,Month 3,Concept Drift (Relationship Shift),1858.6,4,3,Suburban,29.4,798095.62
+3,Month 3,Concept Drift (Relationship Shift),1850.1,1,1,Urban,7.5,716471.02
+3,Month 3,Concept Drift (Relationship Shift),1615.9,5,4,Downtown,25.1,950359.6
+3,Month 3,Concept Drift (Relationship Shift),1963.4,3,2,Suburban,3.1,784516.96
+3,Month 3,Concept Drift (Relationship Shift),2307.0,5,4,Rural,32.2,944914.25
+3,Month 3,Concept Drift (Relationship Shift),1554.7,1,1,Downtown,3.8,721108.24
+3,Month 3,Concept Drift (Relationship Shift),1206.0,3,2,Downtown,32.1,723054.52
+3,Month 3,Concept Drift (Relationship Shift),2145.4,2,1,Downtown,17.7,903677.15
+3,Month 3,Concept Drift (Relationship Shift),1986.2,4,3,Suburban,16.2,855386.38
+3,Month 3,Concept Drift (Relationship Shift),1379.5,3,3,Downtown,34.1,793935.93
+3,Month 3,Concept Drift (Relationship Shift),1542.0,2,2,Suburban,34.7,640600.17
+3,Month 3,Concept Drift (Relationship Shift),1489.2,4,3,Rural,23.1,701386.44
+3,Month 3,Concept Drift (Relationship Shift),1545.7,3,3,Suburban,5.3,732494.74
+3,Month 3,Concept Drift (Relationship Shift),1714.1,1,1,Suburban,18.2,649790.12
+3,Month 3,Concept Drift (Relationship Shift),1738.1,3,2,Urban,19.0,791863.93
+3,Month 3,Concept Drift (Relationship Shift),1576.7,3,2,Suburban,18.5,706661.28
+3,Month 3,Concept Drift (Relationship Shift),1531.6,2,1,Urban,20.4,687583.85
+3,Month 3,Concept Drift (Relationship Shift),1753.9,3,3,Urban,1.6,815019.3
+3,Month 3,Concept Drift (Relationship Shift),1920.4,1,1,Rural,25.2,622444.93
+3,Month 3,Concept Drift (Relationship Shift),1717.2,3,2,Urban,25.2,802851.12
+3,Month 3,Concept Drift (Relationship Shift),2336.6,4,2,Suburban,4.9,922587.56
+3,Month 3,Concept Drift (Relationship Shift),2063.4,3,2,Suburban,20.4,765866.47
+3,Month 3,Concept Drift (Relationship Shift),1181.8,3,2,Urban,20.3,637548.33
+3,Month 3,Concept Drift (Relationship Shift),2070.0,1,1,Urban,24.2,766557.68
+3,Month 3,Concept Drift (Relationship Shift),2104.3,2,2,Downtown,3.9,892851.26
+3,Month 3,Concept Drift (Relationship Shift),1667.4,2,1,Suburban,22.3,674022.78
+3,Month 3,Concept Drift (Relationship Shift),1222.0,3,2,Suburban,10.5,601220.98
+3,Month 3,Concept Drift (Relationship Shift),1853.4,3,2,Suburban,18.2,771670.66
+3,Month 3,Concept Drift (Relationship Shift),1846.8,4,3,Suburban,27.3,818788.52
+3,Month 3,Concept Drift (Relationship Shift),1378.9,1,1,Suburban,25.0,522543.25
+3,Month 3,Concept Drift (Relationship Shift),1240.5,3,2,Downtown,5.0,733818.67
+3,Month 3,Concept Drift (Relationship Shift),1813.2,3,3,Suburban,21.1,772595.16
+3,Month 3,Concept Drift (Relationship Shift),1752.1,3,2,Urban,33.9,792409.02
+3,Month 3,Concept Drift (Relationship Shift),1674.7,4,3,Urban,6.3,838967.32
+3,Month 3,Concept Drift (Relationship Shift),1815.0,2,2,Suburban,30.0,707349.22
+3,Month 3,Concept Drift (Relationship Shift),1386.8,1,1,Downtown,24.9,660976.21
+3,Month 3,Concept Drift (Relationship Shift),1667.4,3,3,Urban,27.3,814521.65
+3,Month 3,Concept Drift (Relationship Shift),2074.0,2,2,Urban,10.6,868385.48
+3,Month 3,Concept Drift (Relationship Shift),1703.0,1,1,Downtown,10.8,789447.95
+3,Month 3,Concept Drift (Relationship Shift),1147.8,2,2,Suburban,31.8,557363.03
+3,Month 3,Concept Drift (Relationship Shift),1651.5,2,2,Rural,13.2,644496.82
+3,Month 3,Concept Drift (Relationship Shift),1400.5,3,2,Urban,3.1,687732.46
+3,Month 3,Concept Drift (Relationship Shift),1962.2,2,2,Urban,21.4,800988.34
+3,Month 3,Concept Drift (Relationship Shift),1983.9,3,2,Rural,5.2,746473.4
+3,Month 3,Concept Drift (Relationship Shift),1153.3,3,2,Downtown,28.1,680002.03
+3,Month 3,Concept Drift (Relationship Shift),2168.8,3,2,Urban,22.8,904967.64
+3,Month 3,Concept Drift (Relationship Shift),1382.9,5,4,Downtown,30.7,887602.94
+3,Month 3,Concept Drift (Relationship Shift),2504.9,1,1,Urban,27.7,891593.52
+3,Month 3,Concept Drift (Relationship Shift),1829.5,5,4,Urban,4.8,963400.44
+3,Month 3,Concept Drift (Relationship Shift),1326.5,3,2,Suburban,14.0,647484.48
+3,Month 3,Concept Drift (Relationship Shift),1370.4,4,3,Suburban,27.3,714755.34
+3,Month 3,Concept Drift (Relationship Shift),1996.2,3,2,Downtown,15.2,922822.67
+3,Month 3,Concept Drift (Relationship Shift),1685.7,3,2,Suburban,34.1,744606.47
+3,Month 3,Concept Drift (Relationship Shift),1809.4,4,4,Suburban,26.0,851315.46
+3,Month 3,Concept Drift (Relationship Shift),2527.4,4,2,Downtown,1.5,1113055.1
+3,Month 3,Concept Drift (Relationship Shift),1556.3,2,1,Suburban,30.9,603660.39
+3,Month 3,Concept Drift (Relationship Shift),1875.2,2,2,Suburban,4.4,735493.24
+3,Month 3,Concept Drift (Relationship Shift),2446.3,3,3,Urban,5.8,1013552.75
+3,Month 3,Concept Drift (Relationship Shift),1963.6,4,3,Urban,26.0,902040.96
+3,Month 3,Concept Drift (Relationship Shift),1175.2,2,2,Downtown,30.4,672271.23
+3,Month 3,Concept Drift (Relationship Shift),2062.3,3,2,Urban,19.2,836285.46
+3,Month 3,Concept Drift (Relationship Shift),1361.5,3,3,Urban,10.8,706863.93
+3,Month 3,Concept Drift (Relationship Shift),2440.9,4,3,Downtown,12.9,1134389.41
+3,Month 3,Concept Drift (Relationship Shift),1504.4,3,2,Urban,12.7,716933.74
+3,Month 3,Concept Drift (Relationship Shift),3097.2,3,2,Urban,12.1,1120512.5
+3,Month 3,Concept Drift (Relationship Shift),2466.3,5,3,Rural,9.3,998273.46
+3,Month 3,Concept Drift (Relationship Shift),1515.4,3,2,Urban,21.7,703295.79
+3,Month 3,Concept Drift (Relationship Shift),1858.4,3,3,Suburban,31.6,779224.52
+3,Month 3,Concept Drift (Relationship Shift),2166.5,2,2,Suburban,11.4,805642.21
+3,Month 3,Concept Drift (Relationship Shift),2179.1,3,2,Urban,7.3,930031.5
+3,Month 3,Concept Drift (Relationship Shift),2035.8,2,2,Suburban,29.5,808216.9
+3,Month 3,Concept Drift (Relationship Shift),2375.9,2,1,Urban,26.2,882528.33
+3,Month 3,Concept Drift (Relationship Shift),1798.4,3,3,Downtown,32.6,920570.42
+3,Month 3,Concept Drift (Relationship Shift),1696.0,3,2,Urban,6.6,770246.12
+3,Month 3,Concept Drift (Relationship Shift),1704.3,3,2,Suburban,5.9,773407.56
+3,Month 3,Concept Drift (Relationship Shift),2210.5,2,1,Downtown,19.4,922920.84
+3,Month 3,Concept Drift (Relationship Shift),2003.4,3,2,Suburban,21.9,815687.4
+3,Month 3,Concept Drift (Relationship Shift),1972.3,3,2,Downtown,17.3,924324.62
+3,Month 3,Concept Drift (Relationship Shift),2184.0,3,3,Urban,21.4,922083.12
+3,Month 3,Concept Drift (Relationship Shift),988.6,2,2,Suburban,7.1,558367.93
+3,Month 3,Concept Drift (Relationship Shift),1980.2,3,3,Rural,17.3,793926.76
+3,Month 3,Concept Drift (Relationship Shift),1941.8,4,3,Suburban,23.4,875874.37
+3,Month 3,Concept Drift (Relationship Shift),2550.9,2,1,Rural,15.7,830751.14
+3,Month 3,Concept Drift (Relationship Shift),1208.0,2,1,Suburban,24.1,518446.7
+3,Month 3,Concept Drift (Relationship Shift),2504.0,3,2,Suburban,16.3,919432.02
+3,Month 3,Concept Drift (Relationship Shift),1881.7,3,1,Suburban,12.3,743397.42
+3,Month 3,Concept Drift (Relationship Shift),2055.4,3,2,Suburban,11.3,810508.84
+3,Month 3,Concept Drift (Relationship Shift),2553.9,3,2,Downtown,15.0,1053560.63
+3,Month 3,Concept Drift (Relationship Shift),2085.5,3,2,Urban,1.8,903577.4
+3,Month 3,Concept Drift (Relationship Shift),2018.2,3,2,Downtown,23.7,922747.13
+3,Month 3,Concept Drift (Relationship Shift),1951.8,2,2,Suburban,29.7,753641.17
+3,Month 3,Concept Drift (Relationship Shift),1646.9,2,1,Urban,13.1,702619.34
+3,Month 3,Concept Drift (Relationship Shift),1838.0,3,2,Urban,2.6,808869.78
+3,Month 3,Concept Drift (Relationship Shift),1549.5,1,1,Urban,34.6,651845.25
+3,Month 3,Concept Drift (Relationship Shift),1831.3,4,3,Urban,10.0,857739.33
+3,Month 3,Concept Drift (Relationship Shift),868.9,4,3,Urban,5.3,645692.44
+3,Month 3,Concept Drift (Relationship Shift),2030.2,4,3,Suburban,13.6,884122.01
+3,Month 3,Concept Drift (Relationship Shift),1798.9,4,3,Downtown,26.1,940852.25
+3,Month 3,Concept Drift (Relationship Shift),1708.8,3,3,Downtown,11.0,878059.65
+3,Month 3,Concept Drift (Relationship Shift),1942.3,4,3,Urban,20.5,912817.39
+3,Month 3,Concept Drift (Relationship Shift),1247.9,2,1,Suburban,15.1,564255.75
+3,Month 3,Concept Drift (Relationship Shift),2660.3,1,1,Suburban,5.0,869909.94
+3,Month 3,Concept Drift (Relationship Shift),1806.8,4,3,Suburban,12.2,837660.38
+3,Month 3,Concept Drift (Relationship Shift),1788.7,1,1,Suburban,25.6,654418.2
+3,Month 3,Concept Drift (Relationship Shift),1444.5,5,4,Suburban,21.8,769635.87
+3,Month 3,Concept Drift (Relationship Shift),1860.1,3,2,Downtown,5.1,892585.68
+3,Month 3,Concept Drift (Relationship Shift),2432.5,4,3,Urban,6.6,1051377.48
+3,Month 3,Concept Drift (Relationship Shift),2285.1,2,1,Urban,22.8,854612.75
+3,Month 3,Concept Drift (Relationship Shift),2208.9,3,2,Suburban,28.7,836133.61
+3,Month 3,Concept Drift (Relationship Shift),2079.5,1,1,Rural,12.9,665113.62
+3,Month 3,Concept Drift (Relationship Shift),1699.4,4,3,Suburban,21.2,781583.49
+3,Month 3,Concept Drift (Relationship Shift),1240.9,2,1,Downtown,6.8,677790.73
+3,Month 3,Concept Drift (Relationship Shift),1765.6,3,1,Rural,11.6,647894.16
+3,Month 3,Concept Drift (Relationship Shift),1750.9,2,1,Downtown,1.7,786030.39
+3,Month 3,Concept Drift (Relationship Shift),2290.5,1,1,Rural,27.1,742446.55
+3,Month 3,Concept Drift (Relationship Shift),1979.9,3,2,Urban,14.6,862749.94
+3,Month 3,Concept Drift (Relationship Shift),2527.2,2,1,Suburban,28.7,836875.5
+3,Month 3,Concept Drift (Relationship Shift),2352.9,3,2,Suburban,25.1,887622.15
+3,Month 3,Concept Drift (Relationship Shift),1658.3,2,2,Suburban,29.2,661985.83
+3,Month 3,Concept Drift (Relationship Shift),1096.0,2,1,Suburban,10.7,511733.31
+3,Month 3,Concept Drift (Relationship Shift),2431.9,3,2,Urban,7.3,957944.64
+3,Month 3,Concept Drift (Relationship Shift),2420.9,2,1,Suburban,34.0,821298.6
+3,Month 3,Concept Drift (Relationship Shift),1276.2,3,2,Downtown,25.4,781789.51
+3,Month 3,Concept Drift (Relationship Shift),2483.9,4,4,Suburban,29.4,1008558.39
+3,Month 3,Concept Drift (Relationship Shift),2010.5,2,2,Urban,1.4,818916.33
+3,Month 3,Concept Drift (Relationship Shift),1917.5,1,1,Rural,13.1,626204.16
+3,Month 3,Concept Drift (Relationship Shift),2528.2,2,2,Suburban,26.3,916835.61
+3,Month 3,Concept Drift (Relationship Shift),2414.8,3,2,Downtown,3.7,1018032.97
+3,Month 3,Concept Drift (Relationship Shift),2123.6,3,3,Downtown,20.3,983930.89
+3,Month 3,Concept Drift (Relationship Shift),2048.8,3,2,Suburban,15.6,842759.82
+3,Month 3,Concept Drift (Relationship Shift),2108.9,4,3,Urban,1.6,958333.98
+3,Month 3,Concept Drift (Relationship Shift),1682.0,1,1,Suburban,9.0,637730.03
+3,Month 3,Concept Drift (Relationship Shift),1826.9,3,3,Downtown,10.7,969546.64
+3,Month 3,Concept Drift (Relationship Shift),1471.0,3,3,Urban,4.8,766348.37
+3,Month 3,Concept Drift (Relationship Shift),1710.1,3,2,Urban,22.5,758805.67
+3,Month 3,Concept Drift (Relationship Shift),1696.0,5,4,Downtown,9.2,990532.83
+3,Month 3,Concept Drift (Relationship Shift),1583.2,3,2,Suburban,10.4,684003.9
+3,Month 3,Concept Drift (Relationship Shift),1907.4,5,4,Downtown,31.5,1053233.16
+3,Month 3,Concept Drift (Relationship Shift),1713.9,2,1,Rural,16.9,626318.37
+3,Month 3,Concept Drift (Relationship Shift),2060.9,1,1,Rural,14.3,695008.21
+3,Month 3,Concept Drift (Relationship Shift),1168.6,2,1,Downtown,25.6,674500.75
+3,Month 3,Concept Drift (Relationship Shift),1802.4,3,2,Urban,31.9,779600.46
+3,Month 3,Concept Drift (Relationship Shift),1905.3,2,1,Rural,1.9,658826.38
+3,Month 3,Concept Drift (Relationship Shift),1719.5,1,1,Suburban,16.2,636961.0
+3,Month 3,Concept Drift (Relationship Shift),1777.6,3,3,Urban,21.8,809275.81
+3,Month 3,Concept Drift (Relationship Shift),1184.2,2,1,Suburban,11.8,540553.48
+3,Month 3,Concept Drift (Relationship Shift),1999.7,2,1,Rural,27.3,699498.35
+3,Month 3,Concept Drift (Relationship Shift),2122.0,2,1,Downtown,34.0,881247.94
+3,Month 3,Concept Drift (Relationship Shift),2057.3,4,3,Downtown,33.1,1003560.1
+3,Month 3,Concept Drift (Relationship Shift),2286.3,2,1,Suburban,10.0,812842.4
+3,Month 3,Concept Drift (Relationship Shift),1934.6,3,2,Downtown,8.7,938153.3
+3,Month 3,Concept Drift (Relationship Shift),2051.0,3,2,Downtown,33.6,920897.7
+3,Month 3,Concept Drift (Relationship Shift),1915.6,3,2,Urban,16.6,788078.8
+3,Month 3,Concept Drift (Relationship Shift),2138.8,2,2,Suburban,8.1,823702.77
+3,Month 3,Concept Drift (Relationship Shift),1187.6,3,2,Urban,25.0,656641.59
+3,Month 3,Concept Drift (Relationship Shift),1474.7,3,2,Suburban,10.7,685172.5
+3,Month 3,Concept Drift (Relationship Shift),2516.5,3,2,Urban,10.1,971531.2
+3,Month 3,Concept Drift (Relationship Shift),816.6,2,2,Suburban,30.9,446008.45
+3,Month 3,Concept Drift (Relationship Shift),1791.1,2,2,Suburban,6.5,738462.84
+3,Month 3,Concept Drift (Relationship Shift),2342.4,4,3,Suburban,3.2,968584.0
+3,Month 3,Concept Drift (Relationship Shift),1810.8,3,3,Suburban,10.2,795321.49
+3,Month 3,Concept Drift (Relationship Shift),1679.9,3,1,Suburban,21.6,716469.26
+3,Month 3,Concept Drift (Relationship Shift),1904.4,3,2,Rural,5.2,721898.88
+3,Month 3,Concept Drift (Relationship Shift),1701.7,4,3,Urban,17.0,871745.67
+3,Month 3,Concept Drift (Relationship Shift),1863.0,3,2,Suburban,22.3,765447.74
+3,Month 3,Concept Drift (Relationship Shift),1563.0,3,2,Urban,29.9,695819.08
+3,Month 3,Concept Drift (Relationship Shift),2315.6,4,3,Urban,8.8,996632.71
+3,Month 3,Concept Drift (Relationship Shift),2447.8,3,2,Rural,28.8,873181.93
+3,Month 3,Concept Drift (Relationship Shift),1794.0,2,1,Suburban,9.0,685733.58
+3,Month 3,Concept Drift (Relationship Shift),1267.7,2,2,Suburban,24.0,558164.55
+3,Month 3,Concept Drift (Relationship Shift),1630.0,4,3,Rural,15.6,725020.88
+3,Month 3,Concept Drift (Relationship Shift),1772.7,4,3,Suburban,4.9,806832.76
+3,Month 3,Concept Drift (Relationship Shift),2062.3,3,2,Suburban,25.3,821206.28
+3,Month 3,Concept Drift (Relationship Shift),1426.6,3,2,Suburban,8.4,680856.67
+3,Month 3,Concept Drift (Relationship Shift),1527.0,3,2,Suburban,7.0,674120.93
+3,Month 3,Concept Drift (Relationship Shift),2064.5,3,2,Rural,13.2,759870.14
+3,Month 3,Concept Drift (Relationship Shift),2244.3,3,3,Suburban,23.2,909135.5
+3,Month 3,Concept Drift (Relationship Shift),1588.9,2,2,Rural,9.0,611608.72
+3,Month 3,Concept Drift (Relationship Shift),1290.0,5,4,Rural,7.2,696237.77
+3,Month 3,Concept Drift (Relationship Shift),3229.3,4,2,Urban,1.3,1177045.23
+3,Month 3,Concept Drift (Relationship Shift),2179.0,3,3,Suburban,17.0,890454.95
+3,Month 3,Concept Drift (Relationship Shift),1737.9,2,1,Suburban,15.6,678570.28
+3,Month 3,Concept Drift (Relationship Shift),2215.0,2,2,Urban,9.0,866274.25
+3,Month 3,Concept Drift (Relationship Shift),1797.7,3,3,Urban,2.8,845264.25
+3,Month 3,Concept Drift (Relationship Shift),2214.2,3,2,Urban,15.6,930564.1
+3,Month 3,Concept Drift (Relationship Shift),1916.9,3,3,Urban,27.8,837464.02
+3,Month 3,Concept Drift (Relationship Shift),1888.3,3,2,Rural,25.3,683696.51
+3,Month 3,Concept Drift (Relationship Shift),1802.3,3,2,Urban,30.3,796551.64
+3,Month 3,Concept Drift (Relationship Shift),1242.1,4,3,Urban,1.3,735477.09
+3,Month 3,Concept Drift (Relationship Shift),2664.0,1,2,Rural,33.9,833132.91
+3,Month 3,Concept Drift (Relationship Shift),1454.6,3,3,Suburban,12.6,718289.97
+3,Month 3,Concept Drift (Relationship Shift),1278.8,4,3,Suburban,34.7,690064.76
+3,Month 3,Concept Drift (Relationship Shift),1760.6,3,2,Suburban,9.6,709729.46
+3,Month 3,Concept Drift (Relationship Shift),1446.2,3,2,Suburban,17.0,653172.91
+3,Month 3,Concept Drift (Relationship Shift),1828.3,3,2,Urban,13.0,850358.62
+3,Month 3,Concept Drift (Relationship Shift),2138.9,5,4,Suburban,13.1,983739.8
+3,Month 3,Concept Drift (Relationship Shift),2268.0,1,1,Urban,29.6,821466.6
+3,Month 3,Concept Drift (Relationship Shift),2192.2,3,2,Rural,26.4,815056.23
+3,Month 3,Concept Drift (Relationship Shift),1721.6,1,1,Suburban,34.7,623929.35
+3,Month 3,Concept Drift (Relationship Shift),1870.8,2,1,Urban,21.9,760559.86
+3,Month 3,Concept Drift (Relationship Shift),2021.3,3,2,Suburban,16.8,821851.84
+3,Month 3,Concept Drift (Relationship Shift),1111.7,2,1,Suburban,4.1,535385.06
+3,Month 3,Concept Drift (Relationship Shift),2089.6,5,4,Urban,34.9,982708.71
+3,Month 3,Concept Drift (Relationship Shift),1237.9,4,3,Rural,19.8,629779.0
+3,Month 3,Concept Drift (Relationship Shift),2706.9,2,1,Suburban,24.8,897292.9
+4,Month 4,Severe Compound Drift (Data + Concept),2707.0,3,2,Urban,20.2,1091926.25
+4,Month 4,Severe Compound Drift (Data + Concept),2057.3,4,4,Suburban,21.4,992053.68
+4,Month 4,Severe Compound Drift (Data + Concept),2265.2,5,4,Downtown,11.4,1264716.52
+4,Month 4,Severe Compound Drift (Data + Concept),2544.7,2,2,Downtown,5.9,1145041.67
+4,Month 4,Severe Compound Drift (Data + Concept),2181.0,3,3,Downtown,5.1,1097654.91
+4,Month 4,Severe Compound Drift (Data + Concept),2422.2,4,4,Suburban,5.7,1083800.1
+4,Month 4,Severe Compound Drift (Data + Concept),2609.8,4,4,Downtown,15.9,1304103.05
+4,Month 4,Severe Compound Drift (Data + Concept),2921.2,4,3,Downtown,1.8,1378464.27
+4,Month 4,Severe Compound Drift (Data + Concept),3222.1,3,3,Suburban,2.1,1282288.48
+4,Month 4,Severe Compound Drift (Data + Concept),2444.9,4,3,Downtown,13.8,1222083.03
+4,Month 4,Severe Compound Drift (Data + Concept),3434.3,4,4,Downtown,14.5,1566751.3
+4,Month 4,Severe Compound Drift (Data + Concept),3216.2,4,4,Suburban,15.0,1320305.03
+4,Month 4,Severe Compound Drift (Data + Concept),2977.3,2,2,Downtown,8.8,1259800.89
+4,Month 4,Severe Compound Drift (Data + Concept),2784.5,4,4,Downtown,17.9,1297713.27
+4,Month 4,Severe Compound Drift (Data + Concept),2875.5,3,2,Downtown,12.2,1256118.52
+4,Month 4,Severe Compound Drift (Data + Concept),3352.9,4,3,Urban,3.2,1388388.53
+4,Month 4,Severe Compound Drift (Data + Concept),3373.0,5,4,Downtown,17.7,1571337.35
+4,Month 4,Severe Compound Drift (Data + Concept),3434.2,4,4,Downtown,21.0,1506026.24
+4,Month 4,Severe Compound Drift (Data + Concept),2722.7,1,1,Downtown,2.3,1135025.62
+4,Month 4,Severe Compound Drift (Data + Concept),3005.2,3,3,Suburban,9.2,1217819.18
+4,Month 4,Severe Compound Drift (Data + Concept),3439.0,5,4,Downtown,11.2,1561998.12
+4,Month 4,Severe Compound Drift (Data + Concept),2357.0,4,3,Downtown,4.1,1156267.03
+4,Month 4,Severe Compound Drift (Data + Concept),2524.9,4,3,Urban,19.2,1143127.76
+4,Month 4,Severe Compound Drift (Data + Concept),2708.8,3,3,Downtown,7.0,1278429.77
+4,Month 4,Severe Compound Drift (Data + Concept),3194.8,4,4,Downtown,17.4,1441176.05
+4,Month 4,Severe Compound Drift (Data + Concept),3203.3,4,3,Suburban,15.1,1273765.44
+4,Month 4,Severe Compound Drift (Data + Concept),2573.0,5,4,Downtown,13.6,1303471.38
+4,Month 4,Severe Compound Drift (Data + Concept),1870.3,4,3,Downtown,5.0,1018547.55
+4,Month 4,Severe Compound Drift (Data + Concept),2835.4,4,3,Suburban,5.6,1205717.54
+4,Month 4,Severe Compound Drift (Data + Concept),2194.9,4,3,Rural,2.0,961358.49
+4,Month 4,Severe Compound Drift (Data + Concept),1880.5,3,2,Downtown,6.1,1032065.0
+4,Month 4,Severe Compound Drift (Data + Concept),2004.9,4,3,Urban,8.3,1021508.93
+4,Month 4,Severe Compound Drift (Data + Concept),2879.5,4,4,Downtown,18.5,1367285.75
+4,Month 4,Severe Compound Drift (Data + Concept),3448.6,5,4,Downtown,8.7,1564233.89
+4,Month 4,Severe Compound Drift (Data + Concept),2721.4,4,4,Downtown,16.8,1343991.15
+4,Month 4,Severe Compound Drift (Data + Concept),2816.3,2,2,Downtown,10.2,1237590.72
+4,Month 4,Severe Compound Drift (Data + Concept),3350.6,4,3,Downtown,17.5,1468623.97
+4,Month 4,Severe Compound Drift (Data + Concept),1850.5,2,3,Downtown,21.5,1012859.29
+4,Month 4,Severe Compound Drift (Data + Concept),2986.1,3,3,Downtown,6.0,1332690.82
+4,Month 4,Severe Compound Drift (Data + Concept),2693.6,3,3,Downtown,19.1,1231870.54
+4,Month 4,Severe Compound Drift (Data + Concept),3011.3,4,4,Downtown,14.1,1411328.36
+4,Month 4,Severe Compound Drift (Data + Concept),2434.1,4,4,Downtown,18.2,1258408.43
+4,Month 4,Severe Compound Drift (Data + Concept),2250.1,2,2,Downtown,14.7,1038695.62
+4,Month 4,Severe Compound Drift (Data + Concept),2777.3,4,3,Downtown,9.9,1285189.37
+4,Month 4,Severe Compound Drift (Data + Concept),3607.1,3,3,Urban,5.8,1415378.89
+4,Month 4,Severe Compound Drift (Data + Concept),3173.5,5,4,Downtown,2.5,1487235.57
+4,Month 4,Severe Compound Drift (Data + Concept),2420.8,4,3,Downtown,12.2,1210943.27
+4,Month 4,Severe Compound Drift (Data + Concept),1962.5,4,3,Downtown,21.8,1077593.69
+4,Month 4,Severe Compound Drift (Data + Concept),1774.9,3,3,Downtown,16.5,1035725.7
+4,Month 4,Severe Compound Drift (Data + Concept),3423.9,4,4,Urban,7.9,1452951.44
+4,Month 4,Severe Compound Drift (Data + Concept),2174.7,4,4,Downtown,18.4,1159400.43
+4,Month 4,Severe Compound Drift (Data + Concept),2521.0,5,4,Rural,17.1,1101716.2
+4,Month 4,Severe Compound Drift (Data + Concept),3426.7,2,2,Downtown,6.9,1402051.33
+4,Month 4,Severe Compound Drift (Data + Concept),1812.4,4,3,Suburban,1.3,923594.08
+4,Month 4,Severe Compound Drift (Data + Concept),3520.7,4,4,Downtown,3.5,1555683.27
+4,Month 4,Severe Compound Drift (Data + Concept),2560.5,2,2,Downtown,19.4,1120928.33
+4,Month 4,Severe Compound Drift (Data + Concept),2068.3,3,2,Suburban,18.6,884643.88
+4,Month 4,Severe Compound Drift (Data + Concept),2564.0,5,4,Downtown,7.2,1317613.4
+4,Month 4,Severe Compound Drift (Data + Concept),2302.6,3,2,Rural,7.0,921040.8
+4,Month 4,Severe Compound Drift (Data + Concept),2942.5,5,5,Downtown,17.7,1497946.18
+4,Month 4,Severe Compound Drift (Data + Concept),2343.5,2,2,Downtown,20.7,1070599.24
+4,Month 4,Severe Compound Drift (Data + Concept),1648.6,4,3,Downtown,17.4,982183.3
+4,Month 4,Severe Compound Drift (Data + Concept),2578.7,4,3,Downtown,13.7,1253844.44
+4,Month 4,Severe Compound Drift (Data + Concept),1953.9,4,4,Suburban,6.1,1007530.18
+4,Month 4,Severe Compound Drift (Data + Concept),2812.4,5,4,Suburban,12.0,1218179.42
+4,Month 4,Severe Compound Drift (Data + Concept),2047.1,3,3,Suburban,5.9,969241.58
+4,Month 4,Severe Compound Drift (Data + Concept),2431.6,5,5,Suburban,18.0,1177308.53
+4,Month 4,Severe Compound Drift (Data + Concept),2800.4,4,3,Downtown,9.1,1303952.18
+4,Month 4,Severe Compound Drift (Data + Concept),2583.1,3,2,Downtown,18.5,1150341.51
+4,Month 4,Severe Compound Drift (Data + Concept),2837.7,5,4,Urban,9.0,1314911.04
+4,Month 4,Severe Compound Drift (Data + Concept),3074.2,3,3,Suburban,18.3,1206614.94
+4,Month 4,Severe Compound Drift (Data + Concept),2063.1,4,4,Downtown,8.0,1163661.15
+4,Month 4,Severe Compound Drift (Data + Concept),2664.6,3,3,Urban,10.2,1131275.06
+4,Month 4,Severe Compound Drift (Data + Concept),1100.0,5,3,Downtown,13.9,882262.93
+4,Month 4,Severe Compound Drift (Data + Concept),2836.0,4,3,Suburban,2.5,1177511.75
+4,Month 4,Severe Compound Drift (Data + Concept),2534.6,3,2,Downtown,20.9,1165769.83
+4,Month 4,Severe Compound Drift (Data + Concept),2159.1,4,3,Rural,13.0,931739.23
+4,Month 4,Severe Compound Drift (Data + Concept),2873.6,3,3,Downtown,11.7,1274202.18
+4,Month 4,Severe Compound Drift (Data + Concept),3345.0,3,3,Downtown,18.6,1482539.22
+4,Month 4,Severe Compound Drift (Data + Concept),2438.2,3,2,Downtown,19.2,1115534.67
+4,Month 4,Severe Compound Drift (Data + Concept),2180.4,2,2,Urban,12.0,949143.75
+4,Month 4,Severe Compound Drift (Data + Concept),2790.8,3,3,Rural,20.5,1043782.19
+4,Month 4,Severe Compound Drift (Data + Concept),1965.4,4,3,Downtown,2.4,1057305.77
+4,Month 4,Severe Compound Drift (Data + Concept),2336.8,4,3,Downtown,3.4,1198863.25
+4,Month 4,Severe Compound Drift (Data + Concept),3372.3,4,3,Downtown,13.5,1473894.54
+4,Month 4,Severe Compound Drift (Data + Concept),2734.2,3,3,Downtown,8.4,1294402.37
+4,Month 4,Severe Compound Drift (Data + Concept),1666.3,4,4,Downtown,10.7,1059440.86
+4,Month 4,Severe Compound Drift (Data + Concept),1711.7,4,4,Downtown,7.9,1062416.73
+4,Month 4,Severe Compound Drift (Data + Concept),2789.1,3,2,Downtown,9.5,1224378.18
+4,Month 4,Severe Compound Drift (Data + Concept),3174.3,5,5,Suburban,18.3,1411079.9
+4,Month 4,Severe Compound Drift (Data + Concept),1810.3,4,3,Downtown,13.5,1067282.44
+4,Month 4,Severe Compound Drift (Data + Concept),2947.3,4,3,Downtown,21.9,1325689.19
+4,Month 4,Severe Compound Drift (Data + Concept),3431.7,3,2,Urban,17.5,1312800.61
+4,Month 4,Severe Compound Drift (Data + Concept),3738.3,1,1,Suburban,6.7,1255179.91
+4,Month 4,Severe Compound Drift (Data + Concept),2882.2,5,4,Suburban,6.6,1262342.76
+4,Month 4,Severe Compound Drift (Data + Concept),2978.7,5,4,Downtown,8.1,1454864.88
+4,Month 4,Severe Compound Drift (Data + Concept),1526.7,3,2,Downtown,18.7,913631.71
+4,Month 4,Severe Compound Drift (Data + Concept),3854.9,3,3,Suburban,1.6,1427059.72
+4,Month 4,Severe Compound Drift (Data + Concept),2383.5,4,3,Downtown,5.8,1202422.03
+4,Month 4,Severe Compound Drift (Data + Concept),2186.6,4,4,Downtown,20.0,1216356.73
+4,Month 4,Severe Compound Drift (Data + Concept),2559.6,5,4,Downtown,14.4,1341095.97
+4,Month 4,Severe Compound Drift (Data + Concept),3531.4,3,2,Suburban,5.8,1302472.44
+4,Month 4,Severe Compound Drift (Data + Concept),3914.4,3,3,Downtown,5.6,1556949.43
+4,Month 4,Severe Compound Drift (Data + Concept),2769.0,2,1,Downtown,19.1,1167034.2
+4,Month 4,Severe Compound Drift (Data + Concept),3248.9,3,3,Rural,19.8,1217315.82
+4,Month 4,Severe Compound Drift (Data + Concept),2723.8,1,1,Downtown,6.4,1068498.12
+4,Month 4,Severe Compound Drift (Data + Concept),2129.2,5,3,Downtown,9.8,1174026.33
+4,Month 4,Severe Compound Drift (Data + Concept),3512.2,4,3,Downtown,18.5,1496846.69
+4,Month 4,Severe Compound Drift (Data + Concept),2357.8,5,4,Suburban,17.2,1116882.29
+4,Month 4,Severe Compound Drift (Data + Concept),3544.5,2,2,Suburban,18.1,1247023.36
+4,Month 4,Severe Compound Drift (Data + Concept),3414.2,3,3,Downtown,11.9,1447737.78
+4,Month 4,Severe Compound Drift (Data + Concept),3037.7,3,2,Suburban,20.1,1186938.7
+4,Month 4,Severe Compound Drift (Data + Concept),3705.9,3,2,Suburban,7.8,1337967.79
+4,Month 4,Severe Compound Drift (Data + Concept),3927.8,4,3,Downtown,4.3,1645240.79
+4,Month 4,Severe Compound Drift (Data + Concept),2603.6,3,3,Urban,15.9,1113319.71
+4,Month 4,Severe Compound Drift (Data + Concept),2255.2,3,2,Downtown,12.3,1112673.33
+4,Month 4,Severe Compound Drift (Data + Concept),1674.7,2,2,Downtown,18.9,904821.27
+4,Month 4,Severe Compound Drift (Data + Concept),3934.6,2,2,Downtown,2.7,1531753.2
+4,Month 4,Severe Compound Drift (Data + Concept),2458.2,4,4,Urban,18.7,1160619.76
+4,Month 4,Severe Compound Drift (Data + Concept),3324.3,4,4,Suburban,7.2,1369089.97
+4,Month 4,Severe Compound Drift (Data + Concept),2292.3,4,4,Suburban,14.8,1021720.69
+4,Month 4,Severe Compound Drift (Data + Concept),3546.0,4,4,Suburban,1.8,1390930.32
+4,Month 4,Severe Compound Drift (Data + Concept),2314.9,3,2,Suburban,13.8,976093.42
+4,Month 4,Severe Compound Drift (Data + Concept),2044.6,3,2,Downtown,16.1,997521.32
+4,Month 4,Severe Compound Drift (Data + Concept),2585.3,4,3,Downtown,8.7,1250178.94
+4,Month 4,Severe Compound Drift (Data + Concept),2407.5,4,3,Downtown,5.5,1213630.32
+4,Month 4,Severe Compound Drift (Data + Concept),3028.0,3,3,Downtown,12.3,1329613.57
+4,Month 4,Severe Compound Drift (Data + Concept),2671.7,2,2,Downtown,18.5,1160438.42
+4,Month 4,Severe Compound Drift (Data + Concept),3045.2,1,1,Downtown,7.8,1214968.75
+4,Month 4,Severe Compound Drift (Data + Concept),2539.9,3,2,Suburban,6.3,1053188.1
+4,Month 4,Severe Compound Drift (Data + Concept),2334.2,1,1,Downtown,6.9,998947.98
+4,Month 4,Severe Compound Drift (Data + Concept),2379.0,3,2,Downtown,20.9,1114281.03
+4,Month 4,Severe Compound Drift (Data + Concept),3824.7,3,2,Suburban,8.5,1363921.3
+4,Month 4,Severe Compound Drift (Data + Concept),2823.8,3,2,Downtown,1.1,1209364.87
+4,Month 4,Severe Compound Drift (Data + Concept),1608.9,2,1,Downtown,17.4,850796.36
+4,Month 4,Severe Compound Drift (Data + Concept),2413.9,5,4,Urban,15.7,1201032.45
+4,Month 4,Severe Compound Drift (Data + Concept),2753.3,4,3,Downtown,3.7,1329497.51
+4,Month 4,Severe Compound Drift (Data + Concept),3715.0,5,4,Downtown,21.7,1612616.73
+4,Month 4,Severe Compound Drift (Data + Concept),3265.8,3,3,Downtown,13.8,1384466.21
+4,Month 4,Severe Compound Drift (Data + Concept),2193.1,4,3,Downtown,11.5,1153647.19
+4,Month 4,Severe Compound Drift (Data + Concept),4030.1,3,3,Downtown,9.0,1635295.34
+4,Month 4,Severe Compound Drift (Data + Concept),2682.9,4,4,Downtown,19.9,1323546.42
+4,Month 4,Severe Compound Drift (Data + Concept),3385.5,3,2,Suburban,6.1,1267192.13
+4,Month 4,Severe Compound Drift (Data + Concept),2064.7,1,1,Downtown,7.0,968117.17
+4,Month 4,Severe Compound Drift (Data + Concept),1381.0,5,4,Rural,3.6,797947.67
+4,Month 4,Severe Compound Drift (Data + Concept),1925.4,4,4,Urban,16.9,1013283.62
+4,Month 4,Severe Compound Drift (Data + Concept),1100.0,5,4,Downtown,13.5,961588.19
+4,Month 4,Severe Compound Drift (Data + Concept),3861.6,3,2,Rural,13.8,1328434.81
+4,Month 4,Severe Compound Drift (Data + Concept),2818.0,3,2,Urban,5.6,1128158.67
+4,Month 4,Severe Compound Drift (Data + Concept),2191.4,3,2,Downtown,14.7,1065498.52
+4,Month 4,Severe Compound Drift (Data + Concept),2948.9,4,3,Urban,17.1,1235206.29
+4,Month 4,Severe Compound Drift (Data + Concept),2804.1,4,3,Downtown,8.5,1327149.96
+4,Month 4,Severe Compound Drift (Data + Concept),3041.5,5,4,Downtown,17.8,1432592.7
+4,Month 4,Severe Compound Drift (Data + Concept),3365.2,2,2,Urban,8.3,1273041.34
+4,Month 4,Severe Compound Drift (Data + Concept),2540.5,4,3,Downtown,16.9,1229072.86
+4,Month 4,Severe Compound Drift (Data + Concept),2216.1,3,2,Downtown,1.7,1050851.29
+4,Month 4,Severe Compound Drift (Data + Concept),3155.3,3,2,Downtown,12.6,1346512.34
+4,Month 4,Severe Compound Drift (Data + Concept),3141.3,4,3,Suburban,21.4,1261299.66
+4,Month 4,Severe Compound Drift (Data + Concept),2755.4,4,3,Suburban,21.6,1164350.74
+4,Month 4,Severe Compound Drift (Data + Concept),3897.7,3,3,Downtown,6.9,1570756.97
+4,Month 4,Severe Compound Drift (Data + Concept),2459.2,3,2,Rural,10.3,940230.9
+4,Month 4,Severe Compound Drift (Data + Concept),2205.1,3,3,Downtown,2.3,1138006.91
+4,Month 4,Severe Compound Drift (Data + Concept),2930.0,3,2,Downtown,19.3,1305862.87
+4,Month 4,Severe Compound Drift (Data + Concept),2328.8,3,2,Downtown,12.9,1117231.08
+4,Month 4,Severe Compound Drift (Data + Concept),2972.5,3,3,Urban,9.1,1241623.64
+4,Month 4,Severe Compound Drift (Data + Concept),2241.8,1,1,Suburban,3.4,843845.61
+4,Month 4,Severe Compound Drift (Data + Concept),2479.9,5,4,Downtown,20.9,1266162.14
+4,Month 4,Severe Compound Drift (Data + Concept),3740.0,5,4,Downtown,12.1,1661857.63
+4,Month 4,Severe Compound Drift (Data + Concept),2476.9,4,3,Downtown,6.9,1250773.67
+4,Month 4,Severe Compound Drift (Data + Concept),2260.6,5,5,Rural,8.4,1101573.32
+4,Month 4,Severe Compound Drift (Data + Concept),3343.9,4,3,Downtown,6.7,1463196.11
+4,Month 4,Severe Compound Drift (Data + Concept),2121.9,2,2,Downtown,13.6,1040678.59
+4,Month 4,Severe Compound Drift (Data + Concept),2318.9,2,1,Suburban,20.5,910655.63
+4,Month 4,Severe Compound Drift (Data + Concept),3017.1,5,4,Rural,19.0,1277628.16
+4,Month 4,Severe Compound Drift (Data + Concept),3216.1,4,4,Downtown,10.7,1489723.82
+4,Month 4,Severe Compound Drift (Data + Concept),3371.3,5,5,Downtown,18.4,1580503.28
+4,Month 4,Severe Compound Drift (Data + Concept),2289.0,5,4,Downtown,9.9,1225941.36
+4,Month 4,Severe Compound Drift (Data + Concept),3027.8,4,3,Downtown,6.3,1384841.38
+4,Month 4,Severe Compound Drift (Data + Concept),2443.6,2,2,Downtown,21.7,1115923.45
+4,Month 4,Severe Compound Drift (Data + Concept),2366.9,3,3,Suburban,7.4,1039811.75
+4,Month 4,Severe Compound Drift (Data + Concept),3361.8,2,1,Downtown,7.8,1354076.01
+4,Month 4,Severe Compound Drift (Data + Concept),2397.7,3,2,Downtown,21.8,1128418.03
+4,Month 4,Severe Compound Drift (Data + Concept),2853.0,3,3,Suburban,3.8,1201045.64
+4,Month 4,Severe Compound Drift (Data + Concept),2785.6,2,2,Suburban,17.0,1025735.08
+4,Month 4,Severe Compound Drift (Data + Concept),2111.1,3,2,Downtown,20.7,1061988.57
+4,Month 4,Severe Compound Drift (Data + Concept),3231.4,4,4,Urban,11.7,1357445.76
+4,Month 4,Severe Compound Drift (Data + Concept),3008.2,3,3,Downtown,1.1,1309425.5
+4,Month 4,Severe Compound Drift (Data + Concept),1607.5,4,4,Downtown,8.9,1032674.61
+4,Month 4,Severe Compound Drift (Data + Concept),2852.6,3,2,Downtown,3.3,1235047.81
+4,Month 4,Severe Compound Drift (Data + Concept),2274.9,4,4,Downtown,9.7,1213140.92
+4,Month 4,Severe Compound Drift (Data + Concept),3303.4,5,5,Downtown,17.6,1562056.73
+4,Month 4,Severe Compound Drift (Data + Concept),1905.0,2,2,Downtown,10.2,994601.19
+4,Month 4,Severe Compound Drift (Data + Concept),2503.9,2,2,Downtown,10.1,1103869.21
+4,Month 4,Severe Compound Drift (Data + Concept),2899.1,5,4,Downtown,12.7,1433314.0
+4,Month 4,Severe Compound Drift (Data + Concept),2729.9,4,4,Suburban,13.2,1194101.84
+4,Month 4,Severe Compound Drift (Data + Concept),3119.6,4,3,Urban,19.0,1319486.95
+4,Month 4,Severe Compound Drift (Data + Concept),1864.9,3,2,Suburban,7.5,841394.03
+4,Month 4,Severe Compound Drift (Data + Concept),3608.6,5,4,Downtown,18.3,1576711.33
+4,Month 4,Severe Compound Drift (Data + Concept),2988.8,5,4,Downtown,12.9,1414903.23
+4,Month 4,Severe Compound Drift (Data + Concept),3447.8,4,4,Downtown,7.3,1508695.33
+4,Month 4,Severe Compound Drift (Data + Concept),3180.8,2,1,Downtown,7.2,1288062.36
+4,Month 4,Severe Compound Drift (Data + Concept),2693.6,5,5,Downtown,8.6,1431664.01
+4,Month 4,Severe Compound Drift (Data + Concept),1993.7,4,3,Downtown,14.1,1086551.6
+4,Month 4,Severe Compound Drift (Data + Concept),2390.0,4,4,Downtown,5.8,1262386.83
+4,Month 4,Severe Compound Drift (Data + Concept),3574.3,2,2,Downtown,20.3,1386385.11
+4,Month 4,Severe Compound Drift (Data + Concept),3462.0,4,3,Downtown,13.1,1498500.04
+4,Month 4,Severe Compound Drift (Data + Concept),2359.2,3,3,Urban,20.3,1074168.46
+4,Month 4,Severe Compound Drift (Data + Concept),1149.9,3,3,Downtown,2.0,816334.62
+4,Month 4,Severe Compound Drift (Data + Concept),2583.0,4,3,Downtown,8.2,1256421.0
+4,Month 4,Severe Compound Drift (Data + Concept),2541.8,3,3,Downtown,1.5,1235707.09
+4,Month 4,Severe Compound Drift (Data + Concept),2562.6,4,3,Suburban,6.7,1052202.98
+4,Month 4,Severe Compound Drift (Data + Concept),2990.7,4,3,Downtown,19.1,1390735.85
+4,Month 4,Severe Compound Drift (Data + Concept),3181.9,2,1,Downtown,1.8,1289129.87
+4,Month 4,Severe Compound Drift (Data + Concept),3244.7,4,4,Downtown,10.2,1492298.58
+4,Month 4,Severe Compound Drift (Data + Concept),2945.1,5,4,Suburban,3.5,1279852.08
+4,Month 4,Severe Compound Drift (Data + Concept),1709.6,3,2,Downtown,9.8,917278.91
+4,Month 4,Severe Compound Drift (Data + Concept),2512.3,4,3,Downtown,18.6,1245843.57
+4,Month 4,Severe Compound Drift (Data + Concept),3967.2,3,2,Suburban,14.1,1412054.83
+4,Month 4,Severe Compound Drift (Data + Concept),2905.8,4,4,Downtown,16.5,1383330.36
+4,Month 4,Severe Compound Drift (Data + Concept),2902.3,3,2,Suburban,8.3,1151374.63
+4,Month 4,Severe Compound Drift (Data + Concept),2897.7,3,3,Downtown,20.8,1321125.53
+4,Month 4,Severe Compound Drift (Data + Concept),2928.5,2,1,Downtown,15.9,1243571.92
+4,Month 4,Severe Compound Drift (Data + Concept),1389.3,5,4,Downtown,9.9,1012270.26
+4,Month 4,Severe Compound Drift (Data + Concept),2568.3,4,3,Downtown,10.0,1241632.93
+4,Month 4,Severe Compound Drift (Data + Concept),2679.2,4,4,Rural,20.3,1117429.16
+4,Month 4,Severe Compound Drift (Data + Concept),3404.8,3,3,Suburban,13.1,1310752.64
+4,Month 4,Severe Compound Drift (Data + Concept),2726.2,4,3,Downtown,15.8,1314896.18
+4,Month 4,Severe Compound Drift (Data + Concept),1794.4,3,3,Urban,9.8,885297.74
+4,Month 4,Severe Compound Drift (Data + Concept),2936.5,3,2,Downtown,5.7,1285620.46
+4,Month 4,Severe Compound Drift (Data + Concept),2257.9,4,4,Suburban,16.2,1095106.03
+4,Month 4,Severe Compound Drift (Data + Concept),2030.8,3,2,Suburban,13.8,886244.58
+4,Month 4,Severe Compound Drift (Data + Concept),2241.2,3,3,Downtown,11.5,1152830.7
+4,Month 4,Severe Compound Drift (Data + Concept),2998.4,4,3,Downtown,14.1,1378961.56
+4,Month 4,Severe Compound Drift (Data + Concept),3392.3,5,4,Downtown,5.4,1571818.86
+4,Month 4,Severe Compound Drift (Data + Concept),2965.6,3,3,Downtown,17.7,1309916.26
+4,Month 4,Severe Compound Drift (Data + Concept),3047.6,2,2,Rural,20.9,1060200.56
+4,Month 4,Severe Compound Drift (Data + Concept),2960.2,3,3,Downtown,19.7,1323824.76
+4,Month 4,Severe Compound Drift (Data + Concept),2755.7,5,5,Urban,7.8,1288752.56
+4,Month 4,Severe Compound Drift (Data + Concept),3083.3,5,4,Downtown,9.5,1461383.71
+4,Month 4,Severe Compound Drift (Data + Concept),1369.7,4,3,Downtown,18.0,932083.51
+4,Month 4,Severe Compound Drift (Data + Concept),2761.1,5,5,Downtown,13.5,1453090.86
+4,Month 4,Severe Compound Drift (Data + Concept),2125.3,4,4,Downtown,12.5,1182379.27
+4,Month 4,Severe Compound Drift (Data + Concept),3339.6,5,4,Downtown,20.5,1541919.91
+4,Month 4,Severe Compound Drift (Data + Concept),2619.1,3,3,Downtown,12.3,1259083.04
+4,Month 4,Severe Compound Drift (Data + Concept),2717.0,3,2,Suburban,11.8,1058214.41
+4,Month 4,Severe Compound Drift (Data + Concept),1872.2,4,3,Suburban,1.9,924065.74
+4,Month 4,Severe Compound Drift (Data + Concept),3259.3,3,3,Urban,2.5,1363032.99
+4,Month 4,Severe Compound Drift (Data + Concept),3045.0,4,4,Suburban,1.2,1282882.29
+4,Month 4,Severe Compound Drift (Data + Concept),3006.3,3,3,Downtown,20.2,1357928.5
+4,Month 4,Severe Compound Drift (Data + Concept),2252.8,4,4,Suburban,9.6,1084795.19
+4,Month 4,Severe Compound Drift (Data + Concept),2274.5,3,2,Downtown,10.8,1074048.34
+4,Month 4,Severe Compound Drift (Data + Concept),2823.0,2,2,Downtown,18.8,1221162.23
+4,Month 4,Severe Compound Drift (Data + Concept),2318.0,5,5,Suburban,13.8,1155525.43
+4,Month 4,Severe Compound Drift (Data + Concept),2939.2,5,5,Downtown,13.8,1471901.06
+4,Month 4,Severe Compound Drift (Data + Concept),1511.5,5,4,Downtown,7.2,1028685.9
+4,Month 4,Severe Compound Drift (Data + Concept),2431.9,4,3,Urban,18.5,1091154.0
+4,Month 4,Severe Compound Drift (Data + Concept),3688.2,4,3,Downtown,4.5,1551608.23
+4,Month 4,Severe Compound Drift (Data + Concept),2941.7,4,4,Suburban,2.1,1254038.06
+4,Month 4,Severe Compound Drift (Data + Concept),2791.7,3,2,Urban,5.0,1170454.35
+4,Month 4,Severe Compound Drift (Data + Concept),3791.9,3,3,Downtown,6.6,1592178.87
+4,Month 4,Severe Compound Drift (Data + Concept),1415.2,3,3,Downtown,6.9,941885.73
+4,Month 4,Severe Compound Drift (Data + Concept),2251.6,5,4,Urban,15.1,1156081.53
+4,Month 4,Severe Compound Drift (Data + Concept),2479.4,3,3,Suburban,5.6,1036994.39
+4,Month 4,Severe Compound Drift (Data + Concept),3172.1,5,5,Downtown,15.2,1519161.34
+4,Month 4,Severe Compound Drift (Data + Concept),3181.6,4,4,Downtown,2.9,1469485.23
+4,Month 4,Severe Compound Drift (Data + Concept),2223.7,4,3,Suburban,4.1,1008294.47
+4,Month 4,Severe Compound Drift (Data + Concept),3248.9,2,2,Downtown,11.7,1345729.18
+4,Month 4,Severe Compound Drift (Data + Concept),2478.2,3,2,Downtown,20.4,1167301.59
+4,Month 4,Severe Compound Drift (Data + Concept),3366.4,5,4,Suburban,19.1,1403223.73
+4,Month 4,Severe Compound Drift (Data + Concept),2132.0,3,2,Downtown,21.3,1079348.96
+4,Month 4,Severe Compound Drift (Data + Concept),2632.2,3,3,Downtown,14.7,1219800.37
+4,Month 4,Severe Compound Drift (Data + Concept),2430.4,3,3,Downtown,15.2,1201751.46
+4,Month 4,Severe Compound Drift (Data + Concept),3280.8,3,2,Downtown,14.1,1359432.31
+4,Month 4,Severe Compound Drift (Data + Concept),2412.5,3,2,Rural,14.1,922100.75
+4,Month 4,Severe Compound Drift (Data + Concept),2676.7,4,3,Urban,4.1,1198885.0
+4,Month 4,Severe Compound Drift (Data + Concept),2978.7,4,4,Suburban,12.4,1284127.85
+4,Month 4,Severe Compound Drift (Data + Concept),2999.9,4,4,Downtown,9.1,1422266.7
+4,Month 4,Severe Compound Drift (Data + Concept),3187.8,3,2,Downtown,10.3,1350952.57
+4,Month 4,Severe Compound Drift (Data + Concept),2816.1,4,3,Downtown,12.0,1327357.74
+4,Month 4,Severe Compound Drift (Data + Concept),2470.0,4,3,Downtown,3.7,1235400.78
+4,Month 4,Severe Compound Drift (Data + Concept),2507.7,2,1,Downtown,8.5,1073421.17
+4,Month 4,Severe Compound Drift (Data + Concept),2714.1,3,2,Downtown,2.3,1202560.47
+4,Month 4,Severe Compound Drift (Data + Concept),2837.3,2,2,Downtown,21.6,1215544.15
+4,Month 4,Severe Compound Drift (Data + Concept),2619.1,4,3,Downtown,3.5,1274648.69
+4,Month 4,Severe Compound Drift (Data + Concept),2710.6,4,3,Urban,6.4,1196220.94
+4,Month 4,Severe Compound Drift (Data + Concept),1865.5,5,5,Downtown,19.7,1185379.54
+4,Month 4,Severe Compound Drift (Data + Concept),3067.0,3,3,Downtown,11.1,1353110.58
+4,Month 4,Severe Compound Drift (Data + Concept),2799.6,4,3,Downtown,3.8,1332845.73
+4,Month 4,Severe Compound Drift (Data + Concept),3251.0,3,2,Downtown,9.1,1365444.72
+4,Month 4,Severe Compound Drift (Data + Concept),2700.1,3,3,Suburban,3.4,1154431.08
+4,Month 4,Severe Compound Drift (Data + Concept),1743.9,4,3,Downtown,5.2,1037339.51
+4,Month 4,Severe Compound Drift (Data + Concept),2502.9,2,1,Downtown,2.1,1145329.62
+4,Month 4,Severe Compound Drift (Data + Concept),2590.0,4,3,Downtown,10.2,1268228.97
+4,Month 4,Severe Compound Drift (Data + Concept),3108.6,4,4,Downtown,17.9,1432283.98
+4,Month 4,Severe Compound Drift (Data + Concept),1561.3,5,5,Suburban,13.3,930592.21
+4,Month 4,Severe Compound Drift (Data + Concept),2722.6,3,3,Downtown,13.7,1234017.44
+4,Month 4,Severe Compound Drift (Data + Concept),2982.5,5,5,Downtown,5.2,1462324.57
+4,Month 4,Severe Compound Drift (Data + Concept),2336.2,5,4,Downtown,8.2,1248243.86
+4,Month 4,Severe Compound Drift (Data + Concept),2741.0,5,4,Downtown,18.8,1376728.61
+4,Month 4,Severe Compound Drift (Data + Concept),2355.1,4,4,Downtown,2.8,1231654.78
+4,Month 4,Severe Compound Drift (Data + Concept),2298.7,4,4,Urban,19.0,1120987.03
+4,Month 4,Severe Compound Drift (Data + Concept),2475.4,4,4,Downtown,11.2,1295294.73
+4,Month 4,Severe Compound Drift (Data + Concept),2309.1,3,2,Suburban,18.6,961558.01
+4,Month 4,Severe Compound Drift (Data + Concept),3076.0,4,3,Downtown,7.7,1435493.57
+4,Month 4,Severe Compound Drift (Data + Concept),2295.8,4,3,Urban,8.1,1059474.01
+4,Month 4,Severe Compound Drift (Data + Concept),2203.4,5,4,Suburban,16.8,1076835.97
+4,Month 4,Severe Compound Drift (Data + Concept),3672.4,4,4,Downtown,17.5,1578260.2
+4,Month 4,Severe Compound Drift (Data + Concept),3228.4,3,3,Downtown,5.8,1422906.5
+4,Month 4,Severe Compound Drift (Data + Concept),1676.2,4,4,Downtown,21.4,1002911.25
+4,Month 4,Severe Compound Drift (Data + Concept),2279.4,5,5,Downtown,2.8,1264905.03
+4,Month 4,Severe Compound Drift (Data + Concept),2833.4,3,2,Downtown,2.4,1257395.68
+4,Month 4,Severe Compound Drift (Data + Concept),2878.1,3,2,Downtown,13.5,1296001.83
+4,Month 4,Severe Compound Drift (Data + Concept),1880.2,4,4,Downtown,16.2,1110472.11
+4,Month 4,Severe Compound Drift (Data + Concept),3337.2,3,3,Downtown,21.2,1397308.86
+4,Month 4,Severe Compound Drift (Data + Concept),3153.9,2,2,Downtown,9.5,1285900.18
+4,Month 4,Severe Compound Drift (Data + Concept),2965.0,3,3,Downtown,1.5,1369103.51
+4,Month 4,Severe Compound Drift (Data + Concept),3446.2,5,4,Downtown,13.7,1549854.99
+4,Month 4,Severe Compound Drift (Data + Concept),2948.8,2,2,Suburban,7.1,1092055.63
+4,Month 4,Severe Compound Drift (Data + Concept),2946.7,3,3,Downtown,10.1,1355106.58
+4,Month 4,Severe Compound Drift (Data + Concept),3556.7,4,3,Suburban,11.3,1396782.6
+4,Month 4,Severe Compound Drift (Data + Concept),3305.7,5,4,Downtown,2.4,1556599.44
+4,Month 4,Severe Compound Drift (Data + Concept),2237.2,5,4,Urban,11.2,1118311.93
+4,Month 4,Severe Compound Drift (Data + Concept),3048.3,3,2,Downtown,10.0,1282555.74
+4,Month 4,Severe Compound Drift (Data + Concept),2334.7,5,5,Suburban,16.0,1158441.49
+4,Month 4,Severe Compound Drift (Data + Concept),2977.3,2,2,Downtown,14.6,1265834.08
+4,Month 4,Severe Compound Drift (Data + Concept),2962.1,4,3,Downtown,4.9,1372135.42
+4,Month 4,Severe Compound Drift (Data + Concept),1939.1,4,3,Downtown,5.3,1117921.43
+4,Month 4,Severe Compound Drift (Data + Concept),2633.0,3,3,Downtown,6.3,1208467.91
+4,Month 4,Severe Compound Drift (Data + Concept),2845.9,4,4,Downtown,4.8,1390729.79
+4,Month 4,Severe Compound Drift (Data + Concept),2460.0,3,3,Downtown,14.8,1169397.52
+4,Month 4,Severe Compound Drift (Data + Concept),2873.1,5,4,Downtown,21.9,1419719.31
+4,Month 4,Severe Compound Drift (Data + Concept),3143.2,3,2,Downtown,14.7,1326360.12
+4,Month 4,Severe Compound Drift (Data + Concept),2683.2,4,3,Downtown,13.7,1267933.31
+4,Month 4,Severe Compound Drift (Data + Concept),2823.5,3,3,Downtown,9.6,1280389.88
+4,Month 4,Severe Compound Drift (Data + Concept),3460.9,3,3,Downtown,7.6,1436987.76
+4,Month 4,Severe Compound Drift (Data + Concept),2960.3,5,4,Downtown,20.1,1427998.74
+4,Month 4,Severe Compound Drift (Data + Concept),2810.5,4,3,Suburban,21.3,1153559.52
+4,Month 4,Severe Compound Drift (Data + Concept),2173.1,5,4,Downtown,11.4,1235591.8
+4,Month 4,Severe Compound Drift (Data + Concept),3069.1,3,2,Downtown,7.1,1333191.96
+4,Month 4,Severe Compound Drift (Data + Concept),2881.6,3,2,Rural,17.2,1099486.87
+4,Month 4,Severe Compound Drift (Data + Concept),3406.1,4,3,Rural,3.8,1294692.9
+4,Month 4,Severe Compound Drift (Data + Concept),2725.8,4,3,Downtown,17.1,1304128.61
+4,Month 4,Severe Compound Drift (Data + Concept),1701.1,3,2,Downtown,18.2,972367.67
+4,Month 4,Severe Compound Drift (Data + Concept),1764.9,4,3,Suburban,3.6,884805.01
+4,Month 4,Severe Compound Drift (Data + Concept),3104.6,3,3,Downtown,21.5,1331574.97
+4,Month 4,Severe Compound Drift (Data + Concept),2386.4,3,3,Suburban,21.7,1026310.68
+4,Month 4,Severe Compound Drift (Data + Concept),2940.2,3,2,Urban,20.7,1149004.68
+4,Month 4,Severe Compound Drift (Data + Concept),2762.8,4,3,Downtown,11.4,1356192.28
+4,Month 4,Severe Compound Drift (Data + Concept),2608.2,4,3,Downtown,6.2,1297633.74
+4,Month 4,Severe Compound Drift (Data + Concept),2647.0,4,3,Suburban,13.2,1173036.56
+4,Month 4,Severe Compound Drift (Data + Concept),2224.0,4,3,Downtown,9.8,1163847.43
+4,Month 4,Severe Compound Drift (Data + Concept),2691.3,3,2,Downtown,5.3,1230473.53
+4,Month 4,Severe Compound Drift (Data + Concept),2378.5,5,5,Suburban,9.9,1162074.89
+4,Month 4,Severe Compound Drift (Data + Concept),2495.3,5,4,Suburban,14.9,1177413.39
+4,Month 4,Severe Compound Drift (Data + Concept),2522.0,4,4,Urban,2.5,1163133.74
+4,Month 4,Severe Compound Drift (Data + Concept),2575.3,1,1,Suburban,8.0,886673.12
+4,Month 4,Severe Compound Drift (Data + Concept),3207.2,4,2,Downtown,1.4,1377304.33
+4,Month 4,Severe Compound Drift (Data + Concept),2628.6,4,3,Downtown,16.7,1238572.95
+4,Month 4,Severe Compound Drift (Data + Concept),3263.0,5,3,Downtown,14.5,1501905.62
+4,Month 4,Severe Compound Drift (Data + Concept),3545.8,5,4,Suburban,2.3,1487295.34
+4,Month 4,Severe Compound Drift (Data + Concept),3170.2,5,4,Downtown,21.3,1455145.01
+4,Month 4,Severe Compound Drift (Data + Concept),2994.0,2,1,Downtown,1.5,1257317.86
+4,Month 4,Severe Compound Drift (Data + Concept),2879.8,5,5,Downtown,13.4,1468528.78
+4,Month 4,Severe Compound Drift (Data + Concept),3175.9,4,3,Downtown,17.3,1383728.0
+4,Month 4,Severe Compound Drift (Data + Concept),2749.1,4,3,Downtown,17.5,1291937.23
+4,Month 4,Severe Compound Drift (Data + Concept),3241.5,3,3,Urban,1.7,1298573.35
+4,Month 4,Severe Compound Drift (Data + Concept),3037.8,3,2,Downtown,20.0,1319133.79
+4,Month 4,Severe Compound Drift (Data + Concept),2502.1,4,3,Downtown,20.3,1206815.61
+4,Month 4,Severe Compound Drift (Data + Concept),3192.7,3,2,Suburban,12.8,1203382.88
+4,Month 4,Severe Compound Drift (Data + Concept),2750.3,3,3,Suburban,11.1,1113191.84
+4,Month 4,Severe Compound Drift (Data + Concept),2641.6,5,4,Urban,1.9,1261540.89
+4,Month 4,Severe Compound Drift (Data + Concept),2438.1,2,2,Downtown,12.8,1110267.96
+4,Month 4,Severe Compound Drift (Data + Concept),2791.3,3,3,Urban,9.6,1173190.71
+4,Month 4,Severe Compound Drift (Data + Concept),3248.1,3,3,Suburban,17.2,1253371.41
+4,Month 4,Severe Compound Drift (Data + Concept),3188.9,3,3,Downtown,9.5,1432039.51
+4,Month 4,Severe Compound Drift (Data + Concept),2894.4,5,4,Downtown,15.4,1403927.87
+4,Month 4,Severe Compound Drift (Data + Concept),3029.8,3,3,Urban,3.1,1231349.23
+4,Month 4,Severe Compound Drift (Data + Concept),3399.4,3,2,Downtown,3.8,1423240.45
+4,Month 4,Severe Compound Drift (Data + Concept),2617.5,5,4,Downtown,3.9,1341499.16
+4,Month 4,Severe Compound Drift (Data + Concept),2086.5,5,4,Downtown,2.0,1173881.83
+4,Month 4,Severe Compound Drift (Data + Concept),3415.6,2,2,Downtown,12.4,1423426.97
+4,Month 4,Severe Compound Drift (Data + Concept),2408.6,4,3,Downtown,17.7,1200674.36
+4,Month 4,Severe Compound Drift (Data + Concept),2320.3,4,3,Downtown,13.8,1178636.22
+4,Month 4,Severe Compound Drift (Data + Concept),1712.1,4,4,Urban,13.1,965616.91
+4,Month 4,Severe Compound Drift (Data + Concept),3014.2,4,3,Downtown,15.3,1407262.01
+4,Month 4,Severe Compound Drift (Data + Concept),1808.2,5,4,Downtown,8.1,1089739.85
+4,Month 4,Severe Compound Drift (Data + Concept),2287.4,2,1,Downtown,8.6,1041945.66
+4,Month 4,Severe Compound Drift (Data + Concept),3023.5,3,2,Downtown,7.6,1349538.8
+4,Month 4,Severe Compound Drift (Data + Concept),3097.1,3,2,Rural,16.0,1127207.31
+4,Month 4,Severe Compound Drift (Data + Concept),2341.6,4,3,Suburban,4.4,1027878.59
+4,Month 4,Severe Compound Drift (Data + Concept),2626.2,5,4,Suburban,1.3,1190946.18
+4,Month 4,Severe Compound Drift (Data + Concept),2220.1,4,4,Suburban,13.5,1058445.29
+4,Month 4,Severe Compound Drift (Data + Concept),2398.4,2,2,Downtown,20.8,1125705.15
+4,Month 4,Severe Compound Drift (Data + Concept),2846.4,3,3,Suburban,13.8,1144467.71
+4,Month 4,Severe Compound Drift (Data + Concept),2424.1,3,3,Downtown,17.4,1196573.69
+4,Month 4,Severe Compound Drift (Data + Concept),2565.7,5,4,Suburban,15.1,1149949.53
+4,Month 4,Severe Compound Drift (Data + Concept),1894.4,4,4,Downtown,11.4,1083748.99
+4,Month 4,Severe Compound Drift (Data + Concept),3323.1,4,3,Suburban,16.1,1300936.23
+4,Month 4,Severe Compound Drift (Data + Concept),2980.5,4,3,Downtown,18.3,1390521.75
+4,Month 4,Severe Compound Drift (Data + Concept),3136.1,4,3,Downtown,5.7,1412692.32
